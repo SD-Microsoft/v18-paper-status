@@ -1,6 +1,6 @@
 {
-  "timestamp_utc": "2026-09-19T20:13:16.416096+00:00",
-  "engine": "V18-BEARPROOF-1.0",
+  "timestamp_utc": "2026-09-19T20:27:45.516330+00:00",
+  "engine": "V18.1-BEARPROOF-1.1",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
   "cash_nok": 2000.0,
@@ -13,6 +13,183 @@
   "candidates_tested": 25,
   "validation_pass_count": 0,
   "active_entry_count": 0,
+  "validation_diagnostics": [
+    {
+      "symbol": "ONCO",
+      "filters": "PASS",
+      "validation": "FAIL",
+      "affordable_qty": 187,
+      "reason": "OOS return <= 0; only 0/4 positive walk-forward folds; stress return -14.2% <= -10%"
+    },
+    {
+      "symbol": "QBIM",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 1374,
+      "reason": "spread > 3%"
+    },
+    {
+      "symbol": "CAN",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 104,
+      "reason": "extreme volatility > 180%"
+    },
+    {
+      "symbol": "XTAO.U",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 80,
+      "reason": "spread > 3%"
+    },
+    {
+      "symbol": "NCPL",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 53,
+      "reason": "extreme volatility > 180%"
+    },
+    {
+      "symbol": "SUIG",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 31,
+      "reason": "score +1 < +2"
+    },
+    {
+      "symbol": "AVAT",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 35,
+      "reason": "score +1 < +2"
+    },
+    {
+      "symbol": "FRSX",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 32,
+      "reason": "spread > 3%"
+    },
+    {
+      "symbol": "REFR",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 60,
+      "reason": "score +1 < +2; extreme volatility > 180%"
+    },
+    {
+      "symbol": "MWYN",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 35,
+      "reason": "score +1 < +2; spread > 3%"
+    },
+    {
+      "symbol": "MRNO",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 115,
+      "reason": "score +0 < +2; extreme volatility > 180%"
+    },
+    {
+      "symbol": "ADBT",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 294,
+      "reason": "score +1 < +2"
+    },
+    {
+      "symbol": "ATCH",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 208,
+      "reason": "score +0 < +2; spread > 3%"
+    },
+    {
+      "symbol": "DTSS",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 42,
+      "reason": "extreme volatility > 180%"
+    },
+    {
+      "symbol": "AMM",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 80,
+      "reason": "score +1 < +2; spread > 3%"
+    },
+    {
+      "symbol": "2020",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 48,
+      "reason": "extreme volatility > 180%; spread > 3%"
+    },
+    {
+      "symbol": "H2A",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 35,
+      "reason": "score +0 < +2"
+    },
+    {
+      "symbol": "QNME",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 71,
+      "reason": "score +0 < +2; extreme volatility > 180%"
+    },
+    {
+      "symbol": "SDEV",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 37,
+      "reason": "score +0 < +2; spread > 3%"
+    },
+    {
+      "symbol": "TRML",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 60,
+      "reason": "extreme volatility > 180%; spread > 3%"
+    },
+    {
+      "symbol": "GIPR",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 54,
+      "reason": "extreme volatility > 180%"
+    },
+    {
+      "symbol": "MS1",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 692,
+      "reason": "extreme volatility > 180%; spread > 3%"
+    },
+    {
+      "symbol": "TURB",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 34,
+      "reason": "score +0 < +2; extreme volatility > 180%; spread > 3%"
+    },
+    {
+      "symbol": "NUWE",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 43,
+      "reason": "score +0 < +2"
+    },
+    {
+      "symbol": "OLOX",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 37,
+      "reason": "score +0 < +2"
+    }
+  ],
   "auto_decisions_enabled": false,
   "auto_execution_enabled": false,
   "hard_loss_cap_pct": 10.0,
@@ -37,12 +214,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 87128.969802,
+    "age_seconds": 87994.609718,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T16:12:08.781567-04:00",
+      "local_time": "2026-09-19T16:26:34.421483-04:00",
       "market": "US"
     }
   }
