@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-19T23:49:36.543506+00:00",
+  "timestamp_utc": "2026-09-19T23:52:00.173013+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T23:34:40.213519+00:00",
+    "timestamp_utc": "2026-09-19T23:51:41.067754+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -566,58 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "SWE/Consultant looking for something new",
-            "url": "https://www.reddit.com/r/findapath/comments/1wl11cn/sweconsultant_looking_for_something_new/",
+            "title": "I'm looking for a clan (3.4k recent WNX)",
+            "url": "https://www.reddit.com/r/WorldofTanks/comments/1wl1dya/im_looking_for_a_clan_34k_recent_wnx/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:32:53+00:00",
+            "seen": "2026-09-19T23:49:14+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Hello I believe in the ancient astronauts and ancient aliens theory",
-            "url": "https://www.reddit.com/r/AncientAliens/comments/1wl117e/hello_i_believe_in_the_ancient_astronauts_and/",
+            "title": "Shadow of War on Claw ex ai",
+            "url": "https://www.reddit.com/r/MSIClaw/comments/1wl1du2/shadow_of_war_on_claw_ex_ai/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:32:43+00:00",
+            "seen": "2026-09-19T23:49:04+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "What do you actually like and hate about your Airbnb cleaners?",
-            "url": "https://www.reddit.com/r/TorontoAirbnbHosts/comments/1wl115e/what_do_you_actually_like_and_hate_about_your/",
+            "title": "Ever regretted buying a higher trim?",
+            "url": "https://www.reddit.com/r/f150/comments/1wl1dtx/ever_regretted_buying_a_higher_trim/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:32:38+00:00",
+            "seen": "2026-09-19T23:49:04+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Arzurus opiniones: mi testimonio tras 1 año dentro y 5.000 € financiados (y lo que vi de Llados y Matías Cardozo)",
-            "url": "https://www.reddit.com/r/u_EcomWorldES/comments/1wl113e/arzurus_opiniones_mi_testimonio_tras_1_año_dentro/",
+            "title": "AITA for staying out later than planned and “ruining” my boyfriend’s trust?",
+            "url": "https://www.reddit.com/r/AITA_Relationships/comments/1wl1dtp/aita_for_staying_out_later_than_planned_and/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:32:34+00:00",
+            "seen": "2026-09-19T23:49:04+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Tynan spotted",
-            "url": "https://www.reddit.com/r/RimWorld/comments/1wl110s/tynan_spotted/",
+            "title": "What is the strangest thing you have seen at a flea market/antique store?",
+            "url": "https://www.reddit.com/r/Thrift/comments/1wl1dpq/what_is_the_strangest_thing_you_have_seen_at_a/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:32:29+00:00",
+            "seen": "2026-09-19T23:48:55+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "I need a new paddle...",
+            "url": "https://www.reddit.com/r/tabletennis/comments/1wl1dpa/i_need_a_new_paddle/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:48:54+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Good Products",
-            "url": "https://www.reddit.com/r/360Waves/comments/1wl10qr/good_products/",
+            "title": "Probably the best run I’ve ever had",
+            "url": "https://www.reddit.com/r/slaythespire/comments/1wl1doe/probably_the_best_run_ive_ever_had/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:32:08+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Lease Takeover | 1BR in Humboldt Park / Ukrainian Village available Nov 1st",
-            "url": "https://www.reddit.com/r/chicagoapartments/comments/1wl10oz/lease_takeover_1br_in_humboldt_park_ukrainian/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:32:04+00:00",
+            "seen": "2026-09-19T23:48:52+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 100084.063939,
+    "age_seconds": 100209.951137,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T19:48:03.875704-04:00",
+      "local_time": "2026-09-19T19:50:09.762902-04:00",
       "market": "US"
     }
   },
