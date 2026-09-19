@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-19T22:59:01.872854+00:00",
+  "timestamp_utc": "2026-09-19T23:02:41.840697+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T22:45:06.177173+00:00",
+    "timestamp_utc": "2026-09-19T23:02:24.512156+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,13 +549,30 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 0,
-        "accepted_count": 0,
-        "rejected_count": 8,
+        "article_count": 1,
+        "accepted_count": 1,
+        "rejected_count": 7,
         "duplicate_count": 0,
-        "categories": {},
-        "category_scores": {},
-        "items": [],
+        "categories": {
+          "macro": 1
+        },
+        "category_scores": {
+          "macro": 0.0
+        },
+        "items": [
+          {
+            "title": "Does this look like a leaking valve cover gasket? 2008 Chevy Silverado 4.3L Vortec engine",
+            "url": "https://www.reddit.com/r/AskAMechanic/comments/1wl0anp/does_this_look_like_a_leaking_valve_cover_gasket/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:00:18+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "macro"
+            ]
+          }
+        ],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -566,58 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "How wide are these Chevy stock rims and how wide of a tire will fit on them?",
-            "url": "https://www.reddit.com/r/Silverado/comments/1wkzwvt/how_wide_are_these_chevy_stock_rims_and_how_wide/",
+            "title": "[Star Wars battlefront] (2015) (PS4/PS5) Platinum help please",
+            "url": "https://www.reddit.com/r/Trophies/comments/1wl0arh/star_wars_battlefront_2015_ps4ps5_platinum_help/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T22:43:25+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "Does this M8 107 sounds ok?",
-            "url": "https://www.reddit.com/r/Harley/comments/1wkzwup/does_this_m8_107_sounds_ok/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:43:24+00:00",
+            "seen": "2026-09-19T23:00:23+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Jio Privacy Focused Routers (Stock & OpenWrt Pre-flashed) Multiple Models Available",
-            "url": "https://www.reddit.com/r/degoogle/comments/1wkzwt7/jio_privacy_focused_routers_stock_openwrt/",
+            "title": "BANANO Weekly Discussion!!",
+            "url": "https://www.reddit.com/r/banano/comments/1wl0amw/banano_weekly_discussion/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T22:43:22+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "Hello from the rock bottom!",
-            "url": "https://www.reddit.com/r/u_Old_War2554/comments/1wkzwrk/hello_from_the_rock_bottom/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:43:19+00:00",
+            "seen": "2026-09-19T23:00:16+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "FUCK THE 500",
-            "url": "https://www.reddit.com/r/spx6900/comments/1wkzwl9/fuck_the_500/",
+            "title": "FishingDrones.com and the growing intersection of tech and outdoor sports branding",
+            "url": "https://www.reddit.com/r/namegulf/comments/1wl0aj4/fishingdronescom_and_the_growing_intersection_of/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T22:43:04+00:00",
+            "seen": "2026-09-19T23:00:09+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Snapmaker U1 + eSUN PETG = stringing? Please help :)",
-            "url": "https://www.reddit.com/r/FixMyPrint/comments/1wkzwhs/snapmaker_u1_esun_petg_stringing_please_help/",
+            "title": "[FS/FT] Prosper, Texas- $3- fancy guppies (juvenile age)",
+            "url": "https://www.reddit.com/r/AquaSwapTX/comments/1wl0ahj/fsft_prosper_texas_3_fancy_guppies_juvenile_age/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T22:42:58+00:00",
+            "seen": "2026-09-19T23:00:06+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "🏆 Game Professional | ⚙️ Gears Of Wars | Hand to Hand in the Gears of War Movie? #gearsofwar #gaming #netflix #movie | Voice in a Box",
-            "url": "https://www.reddit.com/r/GameProfessional/comments/1wkzwaj/game_professional_gears_of_wars_hand_to_hand_in/",
+            "title": "Why your skin gets worse during exams and deadlines",
+            "url": "https://www.reddit.com/r/GillianCosmetics/comments/1wl0aek/why_your_skin_gets_worse_during_exams_and/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T22:42:42+00:00",
+            "seen": "2026-09-19T23:00:01+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Electric Grill - please help",
+            "url": "https://www.reddit.com/r/grilling/comments/1wl0ade/electric_grill_please_help/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T22:59:59+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 96972.76435,
+    "age_seconds": 97175.808801,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T18:56:12.576115-04:00",
+      "local_time": "2026-09-19T18:59:35.620566-04:00",
       "market": "US"
     }
   },
