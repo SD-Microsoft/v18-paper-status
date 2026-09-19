@@ -1,6 +1,6 @@
 {
-  "timestamp_utc": "2026-09-19T22:03:42.635296+00:00",
-  "engine": "V18.3.1-NEWSINTEL-1.31",
+  "timestamp_utc": "2026-09-19T22:06:34.857675+00:00",
+  "engine": "V18.4-MARKETDATA-1.4",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
   "cash_nok": 2000.0,
@@ -692,13 +692,20 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 93730.807231,
+    "age_seconds": 93887.821576,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T18:02:10.618996-04:00",
+      "local_time": "2026-09-19T18:04:47.633341-04:00",
       "market": "US"
     }
-  }
+  },
+  "market_data_policy": {
+    "nordic_open_market_max_quote_age_seconds": 180,
+    "block_stale_open_market_paper_entries": true,
+    "closed_market_last_quote_allowed_for_display": true,
+    "note": "Nordnet public Nordic data may be delayed/non-realtime; V18.4 records source freshness where timestamp metadata is available."
+  },
+  "nordic_live_candidate_health": []
 }
