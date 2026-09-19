@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-19T23:15:17.857474+00:00",
+  "timestamp_utc": "2026-09-19T23:18:01.528969+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T23:02:24.512156+00:00",
+    "timestamp_utc": "2026-09-19T23:17:44.378588+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,88 +549,14 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 1,
-        "accepted_count": 1,
-        "rejected_count": 7,
+        "article_count": 0,
+        "accepted_count": 0,
+        "rejected_count": 0,
         "duplicate_count": 0,
-        "categories": {
-          "macro": 1
-        },
-        "category_scores": {
-          "macro": 0.0
-        },
-        "items": [
-          {
-            "title": "Does this look like a leaking valve cover gasket? 2008 Chevy Silverado 4.3L Vortec engine",
-            "url": "https://www.reddit.com/r/AskAMechanic/comments/1wl0anp/does_this_look_like_a_leaking_valve_cover_gasket/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:00:18+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.25,
-            "categories": [
-              "macro"
-            ]
-          }
-        ],
-        "rejected_samples": [
-          {
-            "title": "interestrates",
-            "url": "https://www.reddit.com/r/interestrates/",
-            "domain": "reddit.com",
-            "seen": "2022-02-22T10:42:31+00:00",
-            "source_type": "forum",
-            "rejection_reason": "stale_or_unparseable"
-          },
-          {
-            "title": "[Star Wars battlefront] (2015) (PS4/PS5) Platinum help please",
-            "url": "https://www.reddit.com/r/Trophies/comments/1wl0arh/star_wars_battlefront_2015_ps4ps5_platinum_help/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:00:23+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "BANANO Weekly Discussion!!",
-            "url": "https://www.reddit.com/r/banano/comments/1wl0amw/banano_weekly_discussion/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:00:16+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "FishingDrones.com and the growing intersection of tech and outdoor sports branding",
-            "url": "https://www.reddit.com/r/namegulf/comments/1wl0aj4/fishingdronescom_and_the_growing_intersection_of/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:00:09+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "[FS/FT] Prosper, Texas- $3- fancy guppies (juvenile age)",
-            "url": "https://www.reddit.com/r/AquaSwapTX/comments/1wl0ahj/fsft_prosper_texas_3_fancy_guppies_juvenile_age/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:00:06+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Why your skin gets worse during exams and deadlines",
-            "url": "https://www.reddit.com/r/GillianCosmetics/comments/1wl0aek/why_your_skin_gets_worse_during_exams_and/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:00:01+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Electric Grill - please help",
-            "url": "https://www.reddit.com/r/grilling/comments/1wl0ade/electric_grill_please_help/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:59:59+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          }
-        ]
+        "categories": {},
+        "category_scores": {},
+        "items": [],
+        "rejected_samples": []
       },
       "ONCO": {
         "score": 0.0,
@@ -693,12 +619,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 98024.800084,
+    "age_seconds": 98150.801481,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T19:13:44.611849-04:00",
+      "local_time": "2026-09-19T19:15:50.613246-04:00",
       "market": "US"
     }
   },
