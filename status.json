@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-19T21:52:23.159779+00:00",
+  "timestamp_utc": "2026-09-19T21:54:47.347030+00:00",
   "engine": "V18.3.1-NEWSINTEL-1.31",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -540,7 +540,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T21:38:16.285856+00:00",
+    "timestamp_utc": "2026-09-19T21:54:28.398528+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -548,13 +548,30 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 0,
-        "accepted_count": 0,
+        "article_count": 1,
+        "accepted_count": 1,
         "rejected_count": 7,
-        "duplicate_count": 1,
-        "categories": {},
-        "category_scores": {},
-        "items": [],
+        "duplicate_count": 0,
+        "categories": {
+          "macro": 1
+        },
+        "category_scores": {
+          "macro": 0.0
+        },
+        "items": [
+          {
+            "title": "Snowy forest meadow oil painting",
+            "url": "https://www.reddit.com/r/winterporn/comments/1wkyq41/snowy_forest_meadow_oil_painting/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T21:52:19+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "macro"
+            ]
+          }
+        ],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -565,50 +582,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Pizza Time!",
-            "url": "https://www.reddit.com/r/dairyfree/comments/1wkydfm/pizza_time/",
+            "title": "radiative losses",
+            "url": "https://www.reddit.com/r/Plumbing/comments/1wkyrk2/radiative_losses/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:37:09+00:00",
+            "seen": "2026-09-19T21:54:05+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Sleeping arrangements",
-            "url": "https://www.reddit.com/r/breastfeeding/comments/1wkyd7q/sleeping_arrangements/",
+            "title": "Do you support uzbekistan in its war against finland?",
+            "url": "https://www.reddit.com/r/MapBasedPolls/comments/1wkyqh0/do_you_support_uzbekistan_in_its_war_against/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:36:52+00:00",
+            "seen": "2026-09-19T21:52:44+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "\"We look sharp in those Escalades\"",
-            "url": "https://www.reddit.com/r/DrainTheSwamp/comments/1wkyd6n/we_look_sharp_in_those_escalades/",
+            "title": "TIL that 2,400 years after the Peloponnesian War ended, a symbolic peace treaty was signed by the mayors of modern Athens and Sparta on 12 March 1996.",
+            "url": "https://www.reddit.com/r/todayilearned/comments/1wkyqct/til_that_2400_years_after_the_peloponnesian_war/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:36:49+00:00",
+            "seen": "2026-09-19T21:52:36+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "World War Z (2013)",
-            "url": "https://www.reddit.com/r/ActionMovies/comments/1wkyd4d/world_war_z_2013/",
+            "title": "Intel Moved 20%—But What Actually Changed?",
+            "url": "https://www.reddit.com/r/intelstock/comments/1wkyq2q/intel_moved_20but_what_actually_changed/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:36:44+00:00",
+            "seen": "2026-09-19T21:52:16+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Even In the fog of war, a tank is still visible",
-            "url": "https://www.reddit.com/r/pyrocynical/comments/1wkycyt/even_in_the_fog_of_war_a_tank_is_still_visible/",
+            "title": "A lot of saunas are marketed as \"full-spectrum,\" but what does that actually mean? Is it just marketing, or is there a real difference?",
+            "url": "https://www.reddit.com/r/saunaspace/comments/1wkypxs/a_lot_of_saunas_are_marketed_as_fullspectrum_but/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:36:34+00:00",
+            "seen": "2026-09-19T21:52:07+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_finance_context"
+            "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Planetary Vanguard | 230M | 4th crate Order 66 | ROTE 11* | No pings | No mandatory farms",
-            "url": "https://www.reddit.com/r/SWGOHRecruiting/comments/1wkycwx/planetary_vanguard_230m_4th_crate_order_66_rote/",
+            "title": "We have Star Wars, 30k, and Halo mods, but what would you think of a StarCraft mod?",
+            "url": "https://www.reddit.com/r/warno/comments/1wkypq5/we_have_star_wars_30k_and_halo_mods_but_what/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:36:30+00:00",
+            "seen": "2026-09-19T21:51:53+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -675,12 +692,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 93051.350897,
+    "age_seconds": 93176.737429,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T17:50:51.162662-04:00",
+      "local_time": "2026-09-19T17:52:56.549194-04:00",
       "market": "US"
     }
   }
