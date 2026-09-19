@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-19T21:18:58.906696+00:00",
+  "timestamp_utc": "2026-09-19T21:20:39.747689+00:00",
   "engine": "V18.3-NEWSINTEL-1.3",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -540,17 +540,17 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T21:04:57.603279+00:00",
+    "timestamp_utc": "2026-09-19T21:20:22.406922+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
     },
     "targets": {
       "MACRO": {
-        "score": 0.0,
+        "score": 4.2,
         "article_count": 8,
         "categories": {
-          "macro": 1
+          "macro": 2
         },
         "items": [
           {
@@ -563,64 +563,64 @@
             "source_weight": 0.35
           },
           {
-            "title": "Hello there again... For gods sake why do i keep coming back.",
-            "url": "https://www.reddit.com/r/SynergyServer/comments/1wkxkln/hello_there_again_for_gods_sake_why_do_i_keep/",
+            "title": "Pulled Pork Red Chile Enchiladas",
+            "url": "https://www.reddit.com/r/HatchRecipes/comments/1wkxxse/pulled_pork_red_chile_enchiladas/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:03:56+00:00",
+            "seen": "2026-09-19T21:19:00+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.35
           },
           {
-            "title": "Merken spice",
-            "url": "https://www.reddit.com/r/chile/comments/1wkxkko/merken_spice/",
+            "title": "Project Overview: Bay Villas by Nakheel on Dubai Islands (Waterfront Villas & Townhouses from AED 5.4M)",
+            "url": "https://www.reddit.com/r/u_kenzkdxb/comments/1wkxxpe/project_overview_bay_villas_by_nakheel_on_dubai/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:03:55+00:00",
+            "seen": "2026-09-19T21:18:54+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.35
           },
           {
-            "title": "Free 3 Months of FSD & Low APR for Model 3 & Y + Tips/Tricks",
-            "url": "https://www.reddit.com/r/TeslaReferralsCode/comments/1wkxkge/free_3_months_of_fsd_low_apr_for_model_3_y/",
+            "title": "Three men who stood between the world and its own destruction",
+            "url": "https://www.reddit.com/r/theHoopoe/comments/1wkxxoh/three_men_who_stood_between_the_world_and_its_own/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:03:48+00:00",
+            "seen": "2026-09-19T21:18:52+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.35
           },
           {
-            "title": "📢 Nanyang Technological University [HIRING] a Senior Assistant Manager, Brand &amp; Digital Communications!",
-            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wkxkfv/nanyang_technological_university_hiring_a_senior/",
+            "title": "Studium bestanden mit 5 Drittversuchen",
+            "url": "https://www.reddit.com/r/Studium/comments/1wkxxkn/studium_bestanden_mit_5_drittversuchen/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:03:46+00:00",
+            "seen": "2026-09-19T21:18:44+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.35
           },
           {
-            "title": "[HIRING] [REMOTE] a Marketing Automation Specialist! in Job 31 9/16/2026, 12:15:22 Pm",
-            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wkxk9s/hiring_remote_a_marketing_automation_specialist/",
+            "title": "Fed raises rates 25 bp — is the bigger trade now the path, not the hike?",
+            "url": "https://www.reddit.com/r/TradingVerdict/comments/1wkxxjy/fed_raises_rates_25_bp_is_the_bigger_trade_now/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:03:35+00:00",
+            "seen": "2026-09-19T21:18:42+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 1,
+            "source_weight": 0.35
+          },
+          {
+            "title": "Cult Beauty | Get £5 Off Your First £25 Order | Referral Discount Code",
+            "url": "https://www.reddit.com/r/UKfreeMoney/comments/1wkxxih/cult_beauty_get_5_off_your_first_25_order/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T21:18:40+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.35
           },
           {
-            "title": "The Underwriter",
-            "url": "https://www.reddit.com/r/shortscifistories/comments/1wkxk9i/the_underwriter/",
+            "title": "Should I get this?",
+            "url": "https://www.reddit.com/r/FNSCAR/comments/1wkxxgx/should_i_get_this/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T21:03:34+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.35
-          },
-          {
-            "title": "Need help ID’ing this front brake master cylinder",
-            "url": "https://www.reddit.com/r/Harley/comments/1wkxk8w/need_help_iding_this_front_brake_master_cylinder/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T21:03:33+00:00",
+            "seen": "2026-09-19T21:18:36+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.35
@@ -682,12 +682,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 91087.675914,
+    "age_seconds": 91171.648382,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T17:18:07.487679-04:00",
+      "local_time": "2026-09-19T17:19:31.460147-04:00",
       "market": "US"
     }
   }
