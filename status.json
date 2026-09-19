@@ -1,0 +1,49 @@
+{
+  "timestamp_utc": "2026-09-19T19:08:18.522198+00:00",
+  "engine": "V18-BEARPROOF-1.0",
+  "mode": "PAPER_ONLY",
+  "starting_balance_nok": 2000.0,
+  "cash_nok": 2000.0,
+  "equity_nok": 2000.0,
+  "drawdown_pct": 0.0,
+  "open_positions": 0,
+  "kill_switch": false,
+  "decision": "WAIT",
+  "decision_reason": "No validated candidate with an active current entry signal.",
+  "candidates_tested": 25,
+  "validation_pass_count": 0,
+  "active_entry_count": 0,
+  "auto_decisions_enabled": false,
+  "auto_execution_enabled": false,
+  "hard_loss_cap_pct": 10.0,
+  "risk_per_trade_pct": 1.0,
+  "max_allocation_pct": 20.0,
+  "min_commission_nok": 29.0,
+  "commission_rate_pct": 0.15,
+  "data_boundary": "Hybrid: Alpaca authenticated US data; Nordnet public Nordic data may be delayed/non-realtime",
+  "us_feed": "iex",
+  "us_symbol": "AAPL",
+  "us_quote": {
+    "symbol": "AAPL",
+    "feed": "iex",
+    "last": 335.73,
+    "bid": 334.81,
+    "ask": 335.91,
+    "timestamp": "2026-09-18T19:59:59.811765459Z",
+    "trade_exchange": "V",
+    "bid_exchange": "V",
+    "ask_exchange": "V",
+    "realtime": true
+  },
+  "us_market_health": {
+    "label": "MARKET CLOSED • LAST VALID QUOTE",
+    "age_seconds": 83228.282411,
+    "stale": false,
+    "market_open": false,
+    "session": {
+      "open": false,
+      "local_time": "2026-09-19T15:07:08.094176-04:00",
+      "market": "US"
+    }
+  }
+}
