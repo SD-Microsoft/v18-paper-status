@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-19T22:08:31.937983+00:00",
+  "timestamp_utc": "2026-09-19T22:12:04.466188+00:00",
   "engine": "V18.4-MARKETDATA-1.4",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -540,7 +540,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T21:54:28.398528+00:00",
+    "timestamp_utc": "2026-09-19T22:11:47.722955+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -548,88 +548,14 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 1,
-        "accepted_count": 1,
-        "rejected_count": 7,
+        "article_count": 0,
+        "accepted_count": 0,
+        "rejected_count": 0,
         "duplicate_count": 0,
-        "categories": {
-          "macro": 1
-        },
-        "category_scores": {
-          "macro": 0.0
-        },
-        "items": [
-          {
-            "title": "Snowy forest meadow oil painting",
-            "url": "https://www.reddit.com/r/winterporn/comments/1wkyq41/snowy_forest_meadow_oil_painting/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T21:52:19+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.25,
-            "categories": [
-              "macro"
-            ]
-          }
-        ],
-        "rejected_samples": [
-          {
-            "title": "interestrates",
-            "url": "https://www.reddit.com/r/interestrates/",
-            "domain": "reddit.com",
-            "seen": "2022-02-22T10:42:31+00:00",
-            "source_type": "forum",
-            "rejection_reason": "stale_or_unparseable"
-          },
-          {
-            "title": "radiative losses",
-            "url": "https://www.reddit.com/r/Plumbing/comments/1wkyrk2/radiative_losses/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T21:54:05+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Do you support uzbekistan in its war against finland?",
-            "url": "https://www.reddit.com/r/MapBasedPolls/comments/1wkyqh0/do_you_support_uzbekistan_in_its_war_against/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T21:52:44+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "TIL that 2,400 years after the Peloponnesian War ended, a symbolic peace treaty was signed by the mayors of modern Athens and Sparta on 12 March 1996.",
-            "url": "https://www.reddit.com/r/todayilearned/comments/1wkyqct/til_that_2400_years_after_the_peloponnesian_war/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T21:52:36+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Intel Moved 20%—But What Actually Changed?",
-            "url": "https://www.reddit.com/r/intelstock/comments/1wkyq2q/intel_moved_20but_what_actually_changed/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T21:52:16+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "A lot of saunas are marketed as \"full-spectrum,\" but what does that actually mean? Is it just marketing, or is there a real difference?",
-            "url": "https://www.reddit.com/r/saunaspace/comments/1wkypxs/a_lot_of_saunas_are_marketed_as_fullspectrum_but/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T21:52:07+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "We have Star Wars, 30k, and Halo mods, but what would you think of a StarCraft mod?",
-            "url": "https://www.reddit.com/r/warno/comments/1wkypq5/we_have_star_wars_30k_and_halo_mods_but_what/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T21:51:53+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          }
-        ]
+        "categories": {},
+        "category_scores": {},
+        "items": [],
+        "rejected_samples": []
       },
       "ONCO": {
         "score": 0.0,
@@ -692,12 +618,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 94026.947637,
+    "age_seconds": 94144.086271,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T18:07:06.759402-04:00",
+      "local_time": "2026-09-19T18:09:03.898036-04:00",
       "market": "US"
     }
   },
