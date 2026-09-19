@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-19T23:32:34.141072+00:00",
+  "timestamp_utc": "2026-09-19T23:34:57.556247+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T23:17:44.378588+00:00",
+    "timestamp_utc": "2026-09-19T23:34:40.213519+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -551,12 +551,77 @@
         "score": 0.0,
         "article_count": 0,
         "accepted_count": 0,
-        "rejected_count": 0,
+        "rejected_count": 8,
         "duplicate_count": 0,
         "categories": {},
         "category_scores": {},
         "items": [],
-        "rejected_samples": []
+        "rejected_samples": [
+          {
+            "title": "interestrates",
+            "url": "https://www.reddit.com/r/interestrates/",
+            "domain": "reddit.com",
+            "seen": "2022-02-22T10:42:31+00:00",
+            "source_type": "forum",
+            "rejection_reason": "stale_or_unparseable"
+          },
+          {
+            "title": "SWE/Consultant looking for something new",
+            "url": "https://www.reddit.com/r/findapath/comments/1wl11cn/sweconsultant_looking_for_something_new/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:32:53+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Hello I believe in the ancient astronauts and ancient aliens theory",
+            "url": "https://www.reddit.com/r/AncientAliens/comments/1wl117e/hello_i_believe_in_the_ancient_astronauts_and/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:32:43+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "What do you actually like and hate about your Airbnb cleaners?",
+            "url": "https://www.reddit.com/r/TorontoAirbnbHosts/comments/1wl115e/what_do_you_actually_like_and_hate_about_your/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:32:38+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Arzurus opiniones: mi testimonio tras 1 año dentro y 5.000 € financiados (y lo que vi de Llados y Matías Cardozo)",
+            "url": "https://www.reddit.com/r/u_EcomWorldES/comments/1wl113e/arzurus_opiniones_mi_testimonio_tras_1_año_dentro/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:32:34+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Tynan spotted",
+            "url": "https://www.reddit.com/r/RimWorld/comments/1wl110s/tynan_spotted/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:32:29+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Good Products",
+            "url": "https://www.reddit.com/r/360Waves/comments/1wl10qr/good_products/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:32:08+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Lease Takeover | 1BR in Humboldt Park / Ukrainian Village available Nov 1st",
+            "url": "https://www.reddit.com/r/chicagoapartments/comments/1wl10oz/lease_takeover_1br_in_humboldt_park_ukrainian/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T23:32:04+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          }
+        ]
       },
       "ONCO": {
         "score": 0.0,
@@ -619,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 99062.922732,
+    "age_seconds": 99186.912774,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T19:31:02.734497-04:00",
+      "local_time": "2026-09-19T19:33:06.724539-04:00",
       "market": "US"
     }
   },
