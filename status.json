@@ -1,6 +1,6 @@
 {
-  "timestamp_utc": "2026-09-19T22:38:47.443439+00:00",
-  "engine": "V18.4-MARKETDATA-1.4",
+  "timestamp_utc": "2026-09-19T22:52:18.962802+00:00",
+  "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
   "cash_nok": 2000.0,
@@ -13,6 +13,7 @@
   "candidates_tested": 25,
   "validation_pass_count": 0,
   "active_entry_count": 0,
+  "market_data_blocked_active_candidates": 0,
   "validation_diagnostics": [
     {
       "symbol": "ONCO",
@@ -540,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T22:28:08.930425+00:00",
+    "timestamp_utc": "2026-09-19T22:45:06.177173+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -565,60 +566,60 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Heater Hoses",
-            "url": "https://www.reddit.com/r/PontiacFirebird/comments/1wkzjof/heater_hoses/",
+            "title": "How wide are these Chevy stock rims and how wide of a tire will fit on them?",
+            "url": "https://www.reddit.com/r/Silverado/comments/1wkzwvt/how_wide_are_these_chevy_stock_rims_and_how_wide/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T22:27:20+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "A Manager Tried Sabotaging Me and Failed",
-            "url": "https://www.reddit.com/r/womenintech/comments/1wkzjk0/a_manager_tried_sabotaging_me_and_failed/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:27:11+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Roommate is an extreme hater",
-            "url": "https://www.reddit.com/r/badroommates/comments/1wkzjje/roommate_is_an_extreme_hater/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:27:10+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Chopped Italian hoagie, pita bread sandwich.",
-            "url": "https://www.reddit.com/r/Stonerfoods/comments/1wkzjj3/chopped_italian_hoagie_pita_bread_sandwich/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:27:09+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Meesa know all of fanboi hate, make meesa skin thick! Yousa in Star Wars foreva, these losas soon be forgotten, no?",
-            "url": "https://www.reddit.com/r/ToyPhotography/comments/1wkzjia/meesa_know_all_of_fanboi_hate_make_meesa_skin/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:27:07+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "My marriage feels like it’s sinking.",
-            "url": "https://www.reddit.com/r/marriageadvice/comments/1wkzjg4/my_marriage_feels_like_its_sinking/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:27:03+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Stocking up on essentials",
-            "url": "https://www.reddit.com/r/flytying/comments/1wkzjdl/stocking_up_on_essentials/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T22:26:56+00:00",
+            "seen": "2026-09-19T22:43:25+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "Does this M8 107 sounds ok?",
+            "url": "https://www.reddit.com/r/Harley/comments/1wkzwup/does_this_m8_107_sounds_ok/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T22:43:24+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Jio Privacy Focused Routers (Stock & OpenWrt Pre-flashed) Multiple Models Available",
+            "url": "https://www.reddit.com/r/degoogle/comments/1wkzwt7/jio_privacy_focused_routers_stock_openwrt/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T22:43:22+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "Hello from the rock bottom!",
+            "url": "https://www.reddit.com/r/u_Old_War2554/comments/1wkzwrk/hello_from_the_rock_bottom/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T22:43:19+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "FUCK THE 500",
+            "url": "https://www.reddit.com/r/spx6900/comments/1wkzwl9/fuck_the_500/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T22:43:04+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Snapmaker U1 + eSUN PETG = stringing? Please help :)",
+            "url": "https://www.reddit.com/r/FixMyPrint/comments/1wkzwhs/snapmaker_u1_esun_petg_stringing_please_help/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T22:42:58+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "🏆 Game Professional | ⚙️ Gears Of Wars | Hand to Hand in the Gears of War Movie? #gearsofwar #gaming #netflix #movie | Voice in a Box",
+            "url": "https://www.reddit.com/r/GameProfessional/comments/1wkzwaj/game_professional_gears_of_wars_hand_to_hand_in/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T22:42:42+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
           }
         ]
       },
@@ -683,20 +684,23 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 95835.732929,
+    "age_seconds": 96574.916892,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T18:37:15.544694-04:00",
+      "local_time": "2026-09-19T18:49:34.728657-04:00",
       "market": "US"
     }
   },
   "market_data_policy": {
     "nordic_open_market_max_quote_age_seconds": 180,
     "block_stale_open_market_paper_entries": true,
+    "require_market_open_for_paper_fills": true,
+    "require_actionable_quote_for_entries_and_exits": true,
     "closed_market_last_quote_allowed_for_display": true,
-    "note": "Nordnet public Nordic data may be delayed/non-realtime; V18.4 records source freshness where timestamp metadata is available."
+    "closed_market_last_quote_actionable": false,
+    "note": "Nordnet public Nordic data may be delayed/non-realtime; quotes are display/research only unless the Nordic market is open and quote freshness passes."
   },
   "nordic_live_candidate_health": []
 }
