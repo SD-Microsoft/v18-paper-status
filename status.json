@@ -1,6 +1,6 @@
 {
-  "timestamp_utc": "2026-09-19T20:41:50.662591+00:00",
-  "engine": "V18.2-BEARPROOF-1.2",
+  "timestamp_utc": "2026-09-19T20:48:54.628160+00:00",
+  "engine": "V18.3-NEWSINTEL-1.3",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
   "cash_nok": 2000.0,
@@ -539,6 +539,113 @@
       "stress_scenarios": []
     }
   ],
+  "news_intelligence": {
+    "timestamp_utc": "2026-09-19T20:48:31.493425+00:00",
+    "target_keys": {
+      "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
+      "ONCO": "\"Oncopeptides AB\""
+    },
+    "targets": {
+      "MACRO": {
+        "score": -4.2,
+        "article_count": 8,
+        "categories": {
+          "macro": 1,
+          "geopolitics": 1
+        },
+        "items": [
+          {
+            "title": "interestrates",
+            "url": "https://www.reddit.com/r/interestrates/",
+            "domain": "reddit.com",
+            "seen": "2022-02-22T10:42:31+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.35
+          },
+          {
+            "title": "⚙️ Gears Of Wars | Gears of War: E-Day Requires a Ray-Tracing GPU | El Robinator",
+            "url": "https://www.reddit.com/r/GearsOfWars/comments/1wkx5be/gears_of_wars_gears_of_war_eday_requires_a/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T20:46:51+00:00",
+            "source_type": "forum",
+            "headline_sentiment": -1,
+            "source_weight": 0.35
+          },
+          {
+            "title": "📢 Job 34 9/16/2026, 12:17:20 Pm [HIRING] a Marketing Operations Manager!",
+            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wkx4y6/job_34_9162026_121720_pm_hiring_a_marketing/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T20:46:26+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.35
+          },
+          {
+            "title": "Sept 19 and 20",
+            "url": "https://www.reddit.com/r/Kenosha/comments/1wkx4s3/sept_19_and_20/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T20:46:14+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.35
+          },
+          {
+            "title": "Even more plants..",
+            "url": "https://www.reddit.com/r/sanpedrocactusforsale/comments/1wkx4nc/even_more_plants/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T20:46:06+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.35
+          },
+          {
+            "title": "What should I remove?? Restaurants in Kauai",
+            "url": "https://www.reddit.com/r/VisitingHawaii/comments/1wkx4j9/what_should_i_remove_restaurants_in_kauai/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T20:45:59+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.35
+          },
+          {
+            "title": "What program would this guy need to become a HoF closer??",
+            "url": "https://www.reddit.com/r/OOTP/comments/1wkx4ia/what_program_would_this_guy_need_to_become_a_hof/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T20:45:57+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.35
+          },
+          {
+            "title": "[HIRING] [REMOTE] a Content Marketing Strategist! in Job 51 9/16/2026, 12:17:45 Pm",
+            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wkx4f8/hiring_remote_a_content_marketing_strategist_in/",
+            "domain": "reddit.com",
+            "seen": "2026-09-19T20:45:52+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.35
+          }
+        ]
+      },
+      "ONCO": {
+        "score": 0.0,
+        "article_count": 0,
+        "categories": {},
+        "items": []
+      }
+    }
+  },
+  "news_policy": {
+    "mode": "RESEARCH_ONLY",
+    "can_override_validation": false,
+    "cache_seconds": 900,
+    "sources": [
+      "GDELT DOC 2.0",
+      "Reddit public RSS best-effort"
+    ],
+    "method": "headline metadata + dedup + source weighting + event tags; not a profit prediction"
+  },
   "rejection_summary": {
     "filter_fail": 24,
     "validation_fail": 25,
@@ -576,12 +683,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 88820.728429,
+    "age_seconds": 89227.144125,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T16:40:20.540194-04:00",
+      "local_time": "2026-09-19T16:47:06.955890-04:00",
       "market": "US"
     }
   }
