@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T03:28:08.647086+00:00",
+  "timestamp_utc": "2026-09-20T03:30:32.412740+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T03:13:27.051161+00:00",
+    "timestamp_utc": "2026-09-20T03:30:12.104819+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,13 +549,30 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 0,
-        "accepted_count": 0,
-        "rejected_count": 8,
+        "article_count": 1,
+        "accepted_count": 1,
+        "rejected_count": 7,
         "duplicate_count": 0,
-        "categories": {},
-        "category_scores": {},
-        "items": [],
+        "categories": {
+          "macro": 1
+        },
+        "category_scores": {
+          "macro": 0.0
+        },
+        "items": [
+          {
+            "title": "Republicans Puzzled How Biden Still Outsmarting Trump By Causing High Grocery And Gas Prices While Fighting Stage 4 Metastatic Prostate Cancer",
+            "url": "https://www.reddit.com/r/onionheadlines/comments/1wl5x0j/republicans_puzzled_how_biden_still_outsmarting/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T03:29:03+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "macro"
+            ]
+          }
+        ],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -566,58 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Got the notification for Prowl from Target",
-            "url": "https://www.reddit.com/r/transformers/comments/1wl5lzs/got_the_notification_for_prowl_from_target/",
+            "title": "This is a lifelong struggle",
+            "url": "https://www.reddit.com/r/SuicideWatch/comments/1wl5x71/this_is_a_lifelong_struggle/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:13:16+00:00",
+            "seen": "2026-09-20T03:29:18+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Hot take: Many of the dub fans tend to downplay other dubs in favor of their preferred one.",
-            "url": "https://www.reddit.com/r/winxclub/comments/1wl5lyh/hot_take_many_of_the_dub_fans_tend_to_downplay/",
+            "title": "Anti Willow 🧅",
+            "url": "https://www.reddit.com/r/antiwillow/comments/1wl5x27/anti_willow/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:13:13+00:00",
+            "seen": "2026-09-20T03:29:06+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "If I had the choice to buy a 94 or a 96 gm car and the 94 was a obd1.5 and the 96 was a obd 2, would I miss out on allot of tuning capability? I heard obd1.5 is worse than 1 .",
-            "url": "https://www.reddit.com/r/ECU_Tuning/comments/1wl5ly3/if_i_had_the_choice_to_buy_a_94_or_a_96_gm_car/",
+            "title": "Send Roblox ability War postIf you want it funny make it funnyIf you want itI don't know whatever you want",
+            "url": "https://www.reddit.com/r/abilityw/comments/1wl5x1y/send_roblox_ability_war_postif_you_want_it_funny/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:13:12+00:00",
+            "seen": "2026-09-20T03:29:06+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "What's the Future of the Bilingual BPO Industry and Market with AI?",
-            "url": "https://www.reddit.com/r/BPOinPH/comments/1wl5lqu/whats_the_future_of_the_bilingual_bpo_industry/",
+            "title": "Land Near Isiolo Airport - 1 Acre",
+            "url": "https://www.reddit.com/r/marketplacekenya/comments/1wl5wz1/land_near_isiolo_airport_1_acre/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:12:55+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "Wall thickness vs wind load — what we actually measure on the factory floor",
-            "url": "https://www.reddit.com/r/glazing/comments/1wl5loz/wall_thickness_vs_wind_load_what_we_actually/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T03:12:50+00:00",
+            "seen": "2026-09-20T03:29:00+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Welcome to r/Tradesnaut — turn market chaos into profits",
-            "url": "https://www.reddit.com/r/Tradesnaut/comments/1wl5lmr/welcome_to_rtradesnaut_turn_market_chaos_into/",
+            "title": "Trading as a 16 year old ?",
+            "url": "https://www.reddit.com/r/NepalSocial/comments/1wl5wyt/trading_as_a_16_year_old/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:12:45+00:00",
+            "seen": "2026-09-20T03:28:59+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_macro_event"
+            "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Compsoraptor event difficulty",
-            "url": "https://www.reddit.com/r/JurassicWorldApp/comments/1wl5lju/compsoraptor_event_difficulty/",
+            "title": "What are the most important things in a fish store?",
+            "url": "https://www.reddit.com/r/PlantedTank/comments/1wl5wyq/what_are_the_most_important_things_in_a_fish_store/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:12:37+00:00",
+            "seen": "2026-09-20T03:28:59+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 113198.967194,
+    "age_seconds": 113321.939121,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T23:26:38.778959-04:00",
+      "local_time": "2026-09-19T23:28:41.750886-04:00",
       "market": "US"
     }
   },
