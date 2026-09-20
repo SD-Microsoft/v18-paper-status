@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T06:16:14.527297+00:00",
+  "timestamp_utc": "2026-09-20T06:18:35.407209+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T06:01:33.012652+00:00",
+    "timestamp_utc": "2026-09-20T06:18:18.061933+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -561,10 +561,10 @@
         },
         "items": [
           {
-            "title": "Iran-Krieg macht Energie teurer: Was jetzt bei Strom, Gas und Heizkosten droht",
-            "url": "https://www.reddit.com/r/berlin_public/comments/1wl8rlu/irankrieg_macht_energie_teurer_was_jetzt_bei/",
+            "title": "Strategic Gas ETF?",
+            "url": "https://www.reddit.com/r/ValueInvesting/comments/1wl945j/strategic_gas_etf/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:59:14+00:00",
+            "seen": "2026-09-20T06:17:24+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.25,
@@ -583,50 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Star Wars Minecraft Server !",
-            "url": "https://www.reddit.com/r/minecraftbedrock/comments/1wl8rod/star_wars_minecraft_server/",
+            "title": "Sunday thoughts toxic thinking in corporate",
+            "url": "https://www.reddit.com/r/auscorp/comments/1wl948p/sunday_thoughts_toxic_thinking_in_corporate/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:59:20+00:00",
+            "seen": "2026-09-20T06:17:33+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "My pancit always comes out too dry or too soggy, what am I actually doing wrong?",
-            "url": "https://www.reddit.com/r/asianeats/comments/1wl8rnr/my_pancit_always_comes_out_too_dry_or_too_soggy/",
+            "title": "La Roche Posay Cleanser?",
+            "url": "https://www.reddit.com/r/SkinbarrierLovers/comments/1wl946a/la_roche_posay_cleanser/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:59:18+00:00",
+            "seen": "2026-09-20T06:17:27+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Looking for honest feedback: Who built your current business website or handles your SEO for Malaysia business?",
-            "url": "https://www.reddit.com/r/u_Bulky-Wear5736/comments/1wl8rm9/looking_for_honest_feedback_who_built_your/",
+            "title": "Issues with asking for support",
+            "url": "https://www.reddit.com/r/MechanicalEngineering/comments/1wl945p/issues_with_asking_for_support/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:59:14+00:00",
+            "seen": "2026-09-20T06:17:24+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "WHATS THE BEST LOADOUT FOR ISO HEMLOCK?",
-            "url": "https://www.reddit.com/r/CallOfDutyMobile/comments/1wl8rj9/whats_the_best_loadout_for_iso_hemlock/",
+            "title": "📢 ALCHEMI 2026",
+            "url": "https://www.reddit.com/r/EnvironmentalEngineer/comments/1wl943p/alchemi_2026/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:59:08+00:00",
+            "seen": "2026-09-20T06:17:19+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Tire Recommendation: Central Texas, 2023 Ford Escape",
-            "url": "https://www.reddit.com/r/tires/comments/1wl8rgl/tire_recommendation_central_texas_2023_ford_escape/",
+            "title": "First flavored loaf",
+            "url": "https://www.reddit.com/r/Sourdough/comments/1wl942n/first_flavored_loaf/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:59:02+00:00",
+            "seen": "2026-09-20T06:17:16+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_macro_event"
+            "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Coming Soon 🧡 Coretribe Sea Buckthorn Softgels — 1000 mg, 60 Softgels with Naturally Occurring Omega 3, 6, 7 & 9 for Skin, Hair & Everyday Wellness Support 🌿✨",
-            "url": "https://www.reddit.com/r/Coretribe/comments/1wl8rgf/coming_soon_coretribe_sea_buckthorn_softgels_1000/",
+            "title": "LF a full carry. Can offer 5 trades of any combination ingredients I have at the reset",
+            "url": "https://www.reddit.com/r/Monopoly_GO/comments/1wl9416/lf_a_full_carry_can_offer_5_trades_of_any/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:59:02+00:00",
+            "seen": "2026-09-20T06:17:12+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 123284.001812,
+    "age_seconds": 123407.953489,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T02:14:43.813577-04:00",
+      "local_time": "2026-09-20T02:16:47.765254-04:00",
       "market": "US"
     }
   },
