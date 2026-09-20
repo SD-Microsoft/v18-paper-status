@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T05:25:39.371552+00:00",
+  "timestamp_utc": "2026-09-20T05:28:06.106844+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T05:10:57.998205+00:00",
+    "timestamp_utc": "2026-09-20T05:27:42.828448+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,13 +549,30 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 0,
-        "accepted_count": 0,
-        "rejected_count": 8,
+        "article_count": 1,
+        "accepted_count": 1,
+        "rejected_count": 7,
         "duplicate_count": 0,
-        "categories": {},
-        "category_scores": {},
-        "items": [],
+        "categories": {
+          "macro": 1
+        },
+        "category_scores": {
+          "macro": 0.0
+        },
+        "items": [
+          {
+            "title": "Need a loan for a gallon of gas",
+            "url": "https://www.reddit.com/r/Political_Revolution/comments/1wl86hn/need_a_loan_for_a_gallon_of_gas/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T05:27:03+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "macro"
+            ]
+          }
+        ],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -566,58 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Long term maintenance concerns",
-            "url": "https://www.reddit.com/r/BMWi3/comments/1wl7uiu/long_term_maintenance_concerns/",
+            "title": "Help with am4 fair market value",
+            "url": "https://www.reddit.com/r/PHbuildapc/comments/1wl86k9/help_with_am4_fair_market_value/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:09:30+00:00",
+            "seen": "2026-09-20T05:27:08+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "Greece Island Santorini Inspired Home Island ˖°𓇼🌊⋆🐚",
+            "url": "https://www.reddit.com/r/InfinityNikki/comments/1wl86ho/greece_island_santorini_inspired_home_island_𓇼/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T05:27:03+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "1994 Rockhopper Comp FS",
-            "url": "https://www.reddit.com/r/RockHopper/comments/1wl7ugq/1994_rockhopper_comp_fs/",
+            "title": "Inch (September Submission)",
+            "url": "https://www.reddit.com/r/TalesFromTheCreeps/comments/1wl86hm/inch_september_submission/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:09:25+00:00",
+            "seen": "2026-09-20T05:27:02+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "War",
-            "url": "https://www.reddit.com/r/Christianity/comments/1wl7ug3/war/",
+            "title": "Dharamshala exploration",
+            "url": "https://www.reddit.com/r/Dharamshala/comments/1wl86cd/dharamshala_exploration/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:09:24+00:00",
+            "seen": "2026-09-20T05:26:47+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "New city map!",
-            "url": "https://www.reddit.com/r/mapmaking/comments/1wl7u9e/new_city_map/",
+            "title": "Indonesian CEO reveals how a holiday trip to Nigeria turned into a Billion-Dollar Business",
+            "url": "https://www.reddit.com/r/Nigeria/comments/1wl8688/indonesian_ceo_reveals_how_a_holiday_trip_to/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:09:07+00:00",
+            "seen": "2026-09-20T05:26:37+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Wanted to post something here and opened community rules… do I really have to read entire book?",
-            "url": "https://www.reddit.com/r/marvelcirclejerk/comments/1wl7u6n/wanted_to_post_something_here_and_opened/",
+            "title": "⚙️ Gears Of Wars | Pro Gamers | Persona 5 The Phantom X Part 1153 Haunted Beach Shack Pt.2; Ch.10 The In...",
+            "url": "https://www.reddit.com/r/GearsOfWars/comments/1wl867z/gears_of_wars_pro_gamers_persona_5_the_phantom_x/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:09:00+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Tournament Metrics 9/19/26",
-            "url": "https://www.reddit.com/r/TheTowerGame/comments/1wl7u6k/tournament_metrics_91926/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T05:09:00+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "esfp needs help figuring out enneagram type",
-            "url": "https://www.reddit.com/r/EnneagramTypeMe/comments/1wl7u4x/esfp_needs_help_figuring_out_enneagram_type/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T05:08:56+00:00",
+            "seen": "2026-09-20T05:26:37+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 120249.037279,
+    "age_seconds": 120372.909217,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T01:24:08.849044-04:00",
+      "local_time": "2026-09-20T01:26:12.720982-04:00",
       "market": "US"
     }
   },
