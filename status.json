@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T08:42:44.595081+00:00",
+  "timestamp_utc": "2026-09-20T08:45:13.462004+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T08:29:30.950234+00:00",
+    "timestamp_utc": "2026-09-20T08:44:54.134575+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -551,8 +551,8 @@
         "score": 0.0,
         "article_count": 0,
         "accepted_count": 0,
-        "rejected_count": 8,
-        "duplicate_count": 0,
+        "rejected_count": 7,
+        "duplicate_count": 1,
         "categories": {},
         "category_scores": {},
         "items": [],
@@ -566,58 +566,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Was the Soviet Union militarily more powerful than the United States in any specific domain at any point during the cold war?",
-            "url": "https://www.reddit.com/r/askanything/comments/1wlbg00/was_the_soviet_union_militarily_more_powerful/",
+            "title": "Dhee vs Besant vs TAP vs FITA vs KodNest — Honest 2025/2026 Placement & Teaching Reviews?",
+            "url": "https://www.reddit.com/r/FresherTechJobsIndia/comments/1wlbpc1/dhee_vs_besant_vs_tap_vs_fita_vs_kodnest_honest/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:27:44+00:00",
+            "seen": "2026-09-20T08:42:50+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Cat/Kitten owners please help.",
-            "url": "https://www.reddit.com/r/kolkata/comments/1wlbfzs/catkitten_owners_please_help/",
+            "title": "[WTS] [N] HOUSE IN PENINSULA SURABAYA Rp 18.9 M",
+            "url": "https://www.reddit.com/r/jualbeliindonesia/comments/1wlbp67/wts_n_house_in_peninsula_surabaya_rp_189_m/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:27:43+00:00",
+            "seen": "2026-09-20T08:42:34+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "French resistance book, published briefly after the war. Found in Czechia.",
-            "url": "https://www.reddit.com/r/Antiques/comments/1wlbfyg/french_resistance_book_published_briefly_after/",
+            "title": "Something to prove",
+            "url": "https://www.reddit.com/r/panthers/comments/1wlbp2k/something_to_prove/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:27:40+00:00",
+            "seen": "2026-09-20T08:42:25+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Is my fearful-avoidant ex coming back because she genuinely wants me—or because I feel like a safe option?",
-            "url": "https://www.reddit.com/r/BreakUps/comments/1wlbfuc/is_my_fearfulavoidant_ex_coming_back_because_she/",
+            "title": "Activist group using AI to flood ABC with thousands of bias complaints",
+            "url": "https://www.reddit.com/r/AustralianPolitics/comments/1wlbovo/activist_group_using_ai_to_flood_abc_with/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:27:29+00:00",
+            "seen": "2026-09-20T08:42:05+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Wer von Euch war das? 🚀🤷‍♂️",
-            "url": "https://www.reddit.com/r/wallstreetbetsGER/comments/1wlbftu/wer_von_euch_war_das/",
+            "title": "Yo wsg niche",
+            "url": "https://www.reddit.com/r/KanpurGaming/comments/1wlbouw/yo_wsg_niche/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:27:28+00:00",
+            "seen": "2026-09-20T08:42:03+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "🚴‍♂️ Vom Sofa aufs Gravelbike – mein Ziel für 2027",
-            "url": "https://www.reddit.com/r/cycling/comments/1wlbfsv/vom_sofa_aufs_gravelbike_mein_ziel_für_2027/",
+            "title": "What electric bike should I buy?",
+            "url": "https://www.reddit.com/r/Electricmotorcycles/comments/1wlbots/what_electric_bike_should_i_buy/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:27:25+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Statecrafter.io test results",
-            "url": "https://www.reddit.com/r/PoliticalCompass/comments/1wlbfsk/statecrafterio_test_results/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T08:27:24+00:00",
+            "seen": "2026-09-20T08:42:01+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +676,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 132068.950747,
+    "age_seconds": 132197.916843,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T04:41:08.762512-04:00",
+      "local_time": "2026-09-20T04:43:17.728608-04:00",
       "market": "US"
     }
   },
