@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T05:59:29.459173+00:00",
+  "timestamp_utc": "2026-09-20T06:01:51.347583+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T05:44:35.792514+00:00",
+    "timestamp_utc": "2026-09-20T06:01:33.012652+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -551,8 +551,8 @@
         "score": 0.0,
         "article_count": 1,
         "accepted_count": 1,
-        "rejected_count": 6,
-        "duplicate_count": 1,
+        "rejected_count": 7,
+        "duplicate_count": 0,
         "categories": {
           "macro": 1
         },
@@ -561,10 +561,10 @@
         },
         "items": [
           {
-            "title": "Need suggestions for portable gas heaters as boiler won’t work if electricity blackout",
-            "url": "https://www.reddit.com/r/UKPreppers/comments/1wl8hbg/need_suggestions_for_portable_gas_heaters_as/",
+            "title": "Iran-Krieg macht Energie teurer: Was jetzt bei Strom, Gas und Heizkosten droht",
+            "url": "https://www.reddit.com/r/berlin_public/comments/1wl8rlu/irankrieg_macht_energie_teurer_was_jetzt_bei/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:43:32+00:00",
+            "seen": "2026-09-20T05:59:14+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.25,
@@ -583,42 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Lassan érkezik az Avatar: Steven Havens. Ki fogja nézni? Ki mit vár tőle?",
-            "url": "https://www.reddit.com/r/kibeszelo_show/comments/1wl8i0y/lassan_érkezik_az_avatar_steven_havens_ki_fogja/",
+            "title": "Star Wars Minecraft Server !",
+            "url": "https://www.reddit.com/r/minecraftbedrock/comments/1wl8rod/star_wars_minecraft_server/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:44:35+00:00",
+            "seen": "2026-09-20T05:59:20+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "crazy focus",
-            "url": "https://www.reddit.com/r/hoi4/comments/1wl8hnx/crazy_focus/",
+            "title": "My pancit always comes out too dry or too soggy, what am I actually doing wrong?",
+            "url": "https://www.reddit.com/r/asianeats/comments/1wl8rnr/my_pancit_always_comes_out_too_dry_or_too_soggy/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:44:02+00:00",
+            "seen": "2026-09-20T05:59:18+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "What is happening with XDJ-AZ stock and pricing in Dubai? AE",
-            "url": "https://www.reddit.com/r/PioneerDJ/comments/1wl8hlz/what_is_happening_with_xdjaz_stock_and_pricing_in/",
+            "title": "Looking for honest feedback: Who built your current business website or handles your SEO for Malaysia business?",
+            "url": "https://www.reddit.com/r/u_Bulky-Wear5736/comments/1wl8rm9/looking_for_honest_feedback_who_built_your/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:43:57+00:00",
+            "seen": "2026-09-20T05:59:14+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "WHATS THE BEST LOADOUT FOR ISO HEMLOCK?",
+            "url": "https://www.reddit.com/r/CallOfDutyMobile/comments/1wl8rj9/whats_the_best_loadout_for_iso_hemlock/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T05:59:08+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Tire Recommendation: Central Texas, 2023 Ford Escape",
+            "url": "https://www.reddit.com/r/tires/comments/1wl8rgl/tire_recommendation_central_texas_2023_ford_escape/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T05:59:02+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "How I Pick Stocks for Long-Term Investing — What Am I Missing?",
-            "url": "https://www.reddit.com/r/GrowthStockInvesting/comments/1wl8hhd/how_i_pick_stocks_for_longterm_investing_what_am/",
+            "title": "Coming Soon 🧡 Coretribe Sea Buckthorn Softgels — 1000 mg, 60 Softgels with Naturally Occurring Omega 3, 6, 7 & 9 for Skin, Hair & Everyday Wellness Support 🌿✨",
+            "url": "https://www.reddit.com/r/Coretribe/comments/1wl8rgf/coming_soon_coretribe_sea_buckthorn_softgels_1000/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:43:45+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "Hi! It's me, Helen! I just made my first Facebook post!",
-            "url": "https://www.reddit.com/r/HelensDeafClub/comments/1wl8hdb/hi_its_me_helen_i_just_made_my_first_facebook_post/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T05:43:36+00:00",
+            "seen": "2026-09-20T05:59:02+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -685,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 122279.030162,
+    "age_seconds": 122403.034612,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T01:57:58.841927-04:00",
+      "local_time": "2026-09-20T02:00:02.846377-04:00",
       "market": "US"
     }
   },
