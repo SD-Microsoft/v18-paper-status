@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T02:05:49.274126+00:00",
+  "timestamp_utc": "2026-09-20T02:08:14.025740+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T01:52:54.818218+00:00",
+    "timestamp_utc": "2026-09-20T02:07:56.674607+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,13 +549,30 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 0,
-        "accepted_count": 0,
-        "rejected_count": 8,
+        "article_count": 1,
+        "accepted_count": 1,
+        "rejected_count": 7,
         "duplicate_count": 0,
-        "categories": {},
-        "category_scores": {},
-        "items": [],
+        "categories": {
+          "macro": 1
+        },
+        "category_scores": {
+          "macro": 0.0
+        },
+        "items": [
+          {
+            "title": "(REQ) $25 Repay 9/25 $35 (groceries, gas) (MI) (cashapp, venmo, applepay) Can anyone help me out until Friday? I need to get a bag of dog food for my dog.",
+            "url": "https://www.reddit.com/r/cashadvanceapps/comments/1wl49w0/req_25_repay_925_35_groceries_gas_mi_cashapp/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:06:09+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "macro"
+            ]
+          }
+        ],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -566,58 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "PH-1 errors flashing recovery",
-            "url": "https://www.reddit.com/r/LineageOS/comments/1wl3yzr/ph1_errors_flashing_recovery/",
+            "title": "[2014] Victor Martinez Turned It Up a Notch at 35",
+            "url": "https://www.reddit.com/r/MLB_V2/comments/1wl49tl/2014_victor_martinez_turned_it_up_a_notch_at_35/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:51:05+00:00",
+            "seen": "2026-09-20T02:06:03+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "[QCrit] THE CHILD OF GOLD AND SILVER, Adult Romantasy, 105k words, first attempt",
-            "url": "https://www.reddit.com/r/PubTips/comments/1wl3yy6/qcrit_the_child_of_gold_and_silver_adult/",
+            "title": "I built a tool to compare the estimated total cost of Japanese proxy shopping services",
+            "url": "https://www.reddit.com/r/ProxyJapan/comments/1wl49mh/i_built_a_tool_to_compare_the_estimated_total/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:51:03+00:00",
+            "seen": "2026-09-20T02:05:47+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Questions about this Adler tenor recorder",
-            "url": "https://www.reddit.com/r/Recorder/comments/1wl3yv6/questions_about_this_adler_tenor_recorder/",
+            "title": "POP COLLECTIBLES NIGHTMARE CON'T...",
+            "url": "https://www.reddit.com/r/hottoys/comments/1wl49fd/pop_collectibles_nightmare_cont/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:50:55+00:00",
+            "seen": "2026-09-20T02:05:29+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "I want a better world and future so badly. But no one around me cares enough.",
-            "url": "https://www.reddit.com/r/offmychest/comments/1wl3yo2/i_want_a_better_world_and_future_so_badly_but_no/",
+            "title": "Lenin Acknowledging the Intentional Implementation of State Capitalism in the USSR",
+            "url": "https://www.reddit.com/r/leftist/comments/1wl49ey/lenin_acknowledging_the_intentional/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:50:40+00:00",
+            "seen": "2026-09-20T02:05:28+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "When Krishna Broke His Vow for Arjuna ❤️ | The Powerful Moment of the Kurukshetra War 🙏",
-            "url": "https://www.reddit.com/r/mahabharata/comments/1wl3yn7/when_krishna_broke_his_vow_for_arjuna_the/",
+            "title": "accidentally made the goblin camp go aggro in honor mode- help",
+            "url": "https://www.reddit.com/r/BG3/comments/1wl49d9/accidentally_made_the_goblin_camp_go_aggro_in/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:50:38+00:00",
+            "seen": "2026-09-20T02:05:25+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Which sticker should I choose for my wild pack when I finish my farmers market?!",
-            "url": "https://www.reddit.com/r/Monopoly_GO/comments/1wl3ymm/which_sticker_should_i_choose_for_my_wild_pack/",
+            "title": "Russia Holds Parliamentary Vote In Areas It Seized From Ukraine In The War",
+            "url": "https://www.reddit.com/r/Ywn/comments/1wl49d5/russia_holds_parliamentary_vote_in_areas_it/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:50:37+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "BadWolfMC: An Adult Minecraft Server [Network]{18+/SFW}{Greylist}{Java/Bedrock Crossplay}{26.2}{SMP}{SkyBlock}{Minigames}{Vaults}{Hardcore}{Prison}{Creative} Create yourself at www.badwolfmc.com!",
-            "url": "https://www.reddit.com/r/minecraftserverlist/comments/1wl3yks/badwolfmc_an_adult_minecraft_server/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T01:50:33+00:00",
+            "seen": "2026-09-20T02:05:25+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 108257.036232,
+    "age_seconds": 108382.898887,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T22:04:16.847997-04:00",
+      "local_time": "2026-09-19T22:06:22.710652-04:00",
       "market": "US"
     }
   },
