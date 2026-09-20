@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T02:54:37.335772+00:00",
+  "timestamp_utc": "2026-09-20T02:56:59.222810+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T02:39:45.329950+00:00",
+    "timestamp_utc": "2026-09-20T02:56:41.917969+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,105 +549,76 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 2,
-        "accepted_count": 2,
-        "rejected_count": 22,
-        "duplicate_count": 4,
-        "categories": {
-          "macro": 2
-        },
-        "category_scores": {
-          "macro": 0.0
-        },
-        "items": [
-          {
-            "title": "Cummins Built One Engine Block That Runs On Diesel , Natural Gas , Or Hydrogen",
-            "url": "https://carbuzz.com/cummins-engine-that-can-run-on-diesel-natural-gas-or-hydrogen/",
-            "domain": "carbuzz.com",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
-            "headline_sentiment": 0,
-            "source_weight": 0.65,
-            "categories": [
-              "macro"
-            ]
-          },
-          {
-            "title": "What is the proper oil can routing for an L28et?",
-            "url": "https://www.reddit.com/r/Datsun/comments/1wl4wyh/what_is_the_proper_oil_can_routing_for_an_l28et/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T02:38:26+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.25,
-            "categories": [
-              "macro"
-            ]
-          }
-        ],
+        "article_count": 0,
+        "accepted_count": 0,
+        "rejected_count": 8,
+        "duplicate_count": 0,
+        "categories": {},
+        "category_scores": {},
+        "items": [],
         "rejected_samples": [
           {
-            "title": "AP News in Brief at 9 : 04 p . m . EDT",
-            "url": "http://www.thegazette.com/news/national/ap-news-in-brief-at-9-04-p-m-edt/article_ee2f8513-22c2-5f65-81da-cbcd9e5d89ff.html",
-            "domain": "thegazette.com",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
+            "title": "interestrates",
+            "url": "https://www.reddit.com/r/interestrates/",
+            "domain": "reddit.com",
+            "seen": "2022-02-22T10:42:31+00:00",
+            "source_type": "forum",
+            "rejection_reason": "stale_or_unparseable"
+          },
+          {
+            "title": "Available for being a co founder",
+            "url": "https://www.reddit.com/r/cofounderhunt/comments/1wl5970/available_for_being_a_co_founder/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:55:36+00:00",
+            "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Mỹ phát cảnh báo an ninh khắp Trung Đông",
-            "url": "https://dantri.com.vn/the-gioi/my-phat-canh-bao-an-ninh-khap-trung-dong-20260920080810218.htm",
-            "domain": "dantri.com.vn",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
+            "title": "Finding apps which can deliver depression related meds",
+            "url": "https://www.reddit.com/r/PataHaiAajKyaHua/comments/1wl596t/finding_apps_which_can_deliver_depression_related/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:55:35+00:00",
+            "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Barnes Foundation presents exhibition exploring Japanese American artists and postwar design",
-            "url": "https://artdaily.com/news/200414/Barnes-Foundation-presents-exhibition-exploring-Japanese-American-artists-and-postwar-design",
-            "domain": "artdaily.com",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
+            "title": "📢 Jobgether [HIRING] a Marketing & Data Analyst!",
+            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wl595v/jobgether_hiring_a_marketing_data_analyst/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:55:33+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "Rent Stabilized Studio | $2,395 | Columbia Water Front",
+            "url": "https://www.reddit.com/r/NYCApartmentHunting/comments/1wl595p/rent_stabilized_studio_2395_columbia_water_front/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:55:32+00:00",
+            "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Iran gửi điều khoản đàm phán hòa bình tới Mỹ",
-            "url": "https://baomoi.com/iran-gui-dieu-khoan-dam-phan-hoa-binh-toi-my-c56089328.epi",
-            "domain": "baomoi.com",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
+            "title": "Gillian Anderson posts a video about the humanitarian crisis in Sudan, where a civil war between the Sudanese Armed Forces and the Rapid Support Forces has created the largest displacement and hunger crisis in the world. More than 33 million people are in need of urgent humanitarian assistance.",
+            "url": "https://www.reddit.com/r/Sudan/comments/1wl5957/gillian_anderson_posts_a_video_about_the/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:55:32+00:00",
+            "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "2027 : States plot to silence opposition with N7 . 4 billion",
-            "url": "https://thesun.ng/2027-states-plot-to-silence-opposition-with-n7-4-billion-billboard-levies/",
-            "domain": "thesun.ng",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
+            "title": "Thoughts on this card?",
+            "url": "https://www.reddit.com/r/OnePieceTCG/comments/1wl5950/thoughts_on_this_card/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:55:31+00:00",
+            "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Watch Night 2 Of Our iHeartRadio Music Festival ! ",
-            "url": "https://wgci.iheart.com/content/2026-09-19-watch-night-2-of-our-iheartradio-music-festival/",
-            "domain": "wgci.iheart.com",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Deltan Dallagnol tem campanha suspensa após pedido do PT",
-            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/deltan-dallagnol-tem-campanha-suspensa-apos-pedido-do-pt-ao-tse/",
-            "domain": "gazetadopovo.com.br",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Nâng hạng thị trường chứng khoán : ức ép  tiếp tục cải cách ? ",
-            "url": "https://baomoi.com/nang-hang-thi-truong-chung-khoan-suc-ep-tiep-tuc-cai-cach-c56089206.epi",
-            "domain": "baomoi.com",
-            "seen": "20260920T023000Z",
-            "source_type": "news",
+            "title": "Anyone want to see how far we get?",
+            "url": "https://www.reddit.com/r/Monopoly_GO/comments/1wl5948/anyone_want_to_see_how_far_we_get/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:55:30+00:00",
+            "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
         ]
@@ -713,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 111185.990882,
+    "age_seconds": 111310.964374,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T22:53:05.802647-04:00",
+      "local_time": "2026-09-19T22:55:10.776139-04:00",
       "market": "US"
     }
   },
