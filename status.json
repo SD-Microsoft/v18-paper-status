@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-19T23:58:18.589705+00:00",
+  "timestamp_utc": "2026-09-20T00:00:25.343986+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 100605.952487,
+    "age_seconds": 100731.942704,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T19:56:45.764252-04:00",
+      "local_time": "2026-09-19T19:58:51.754469-04:00",
       "market": "US"
     }
   },
