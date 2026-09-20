@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T01:20:21.203245+00:00",
+  "timestamp_utc": "2026-09-20T01:22:46.065112+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T01:07:22.491891+00:00",
+    "timestamp_utc": "2026-09-20T01:22:28.735055+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,22 +549,34 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 1,
-        "accepted_count": 1,
-        "rejected_count": 7,
+        "article_count": 2,
+        "accepted_count": 2,
+        "rejected_count": 6,
         "duplicate_count": 0,
         "categories": {
-          "macro": 1
+          "macro": 2
         },
         "category_scores": {
           "macro": 0.0
         },
         "items": [
           {
-            "title": "Am I going to destroy my engine of my Chevy Silverado 1500 with this much extra oil?",
-            "url": "https://www.reddit.com/r/AskAMechanic/comments/1wl31gm/am_i_going_to_destroy_my_engine_of_my_chevy/",
+            "title": "As gas continues to increase in America. Are you canceling all your subscriptions?",
+            "url": "https://www.reddit.com/r/randomquestions/comments/1wl3ct2/as_gas_continues_to_increase_in_america_are_you/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:05:50+00:00",
+            "seen": "2026-09-20T01:20:56+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "macro"
+            ]
+          },
+          {
+            "title": "Oil and Grease cans",
+            "url": "https://www.reddit.com/r/FoundattheHHW/comments/1wl3coj/oil_and_grease_cans/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T01:20:46+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.25,
@@ -583,50 +595,42 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "[RO] The Party",
-            "url": "https://www.reddit.com/r/shortstories/comments/1wl31n9/ro_the_party/",
+            "title": "Follow the Five A Family-Inspired Animated Series: \"The Five\"We are raising funds to help bring \"The Five\" to life—an original animated children’s series inspired by the chaos, humor, personalities, experiences, and heart of our real family.The Bennett Family is a fictional family. The characters",
+            "url": "https://www.reddit.com/r/EdutainmentShows/comments/1wl3cvw/follow_the_five_a_familyinspired_animated_series/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:06:05+00:00",
+            "seen": "2026-09-20T01:21:02+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Not sure what else to do",
-            "url": "https://www.reddit.com/r/StardewValley/comments/1wl31k0/not_sure_what_else_to_do/",
+            "title": "Why do libs hate prediction markets like Kalshi and Polymarket?",
+            "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1wl3cu6/why_do_libs_hate_prediction_markets_like_kalshi/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:05:57+00:00",
+            "seen": "2026-09-20T01:20:58+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "Town hall 17 • close to max • defense all done • linkeable to buyers mail • 40 usd • pic's below 👇🏻 • free name change • 300+ vouches and feedbacks • Discord - mysticmoth18",
+            "url": "https://www.reddit.com/r/ClashofClansAccounts/comments/1wl3cqj/town_hall_17_close_to_max_defense_all_done/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T01:20:50+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "👋 Welcome to r/EG3WORKS — What Are You Working Through Right Now?",
-            "url": "https://www.reddit.com/r/EG3WORKS/comments/1wl31hn/welcome_to_reg3works_what_are_you_working_through/",
+            "title": "When you havefinally achieved your people's and family’s dream of an imperial crown by defeating your rival nation and conquering an entire continent only to lose it all in a world war during your reign.",
+            "url": "https://www.reddit.com/r/worldjerking/comments/1wl3cnx/when_you_havefinally_achieved_your_peoples_and/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:05:52+00:00",
+            "seen": "2026-09-20T01:20:45+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "MV Agusta SuperVeloce - Motorcycle Art indeed",
-            "url": "https://www.reddit.com/r/MVAgusta/comments/1wl31d1/mv_agusta_superveloce_motorcycle_art_indeed/",
+            "title": "MERCURY DRUG SUKI DASH VIRTUAL RUN RACE ENTITLEMENTS/RACE BIB",
+            "url": "https://www.reddit.com/r/u_Jann_Ann/comments/1wl3cmn/mercury_drug_suki_dash_virtual_run_race/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:05:41+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Anyone coming from the 209?",
-            "url": "https://www.reddit.com/r/AftershockFestival/comments/1wl31ay/anyone_coming_from_the_209/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T01:05:36+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Danke Huebi!",
-            "url": "https://www.reddit.com/r/Huebis_Weddit/comments/1wl3181/danke_huebi/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T01:05:29+00:00",
+            "seen": "2026-09-20T01:20:42+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +697,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 105527.992241,
+    "age_seconds": 105653.93829,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T21:18:47.804006-04:00",
+      "local_time": "2026-09-19T21:20:53.750055-04:00",
       "market": "US"
     }
   },
