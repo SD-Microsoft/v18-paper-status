@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T04:18:37.101984+00:00",
+  "timestamp_utc": "2026-09-20T04:20:57.135817+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T04:03:51.332638+00:00",
+    "timestamp_utc": "2026-09-20T04:20:39.828679+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -566,60 +566,60 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Demon Tower",
-            "url": "https://www.reddit.com/r/Oilpastel/comments/1wl6l4u/demon_tower/",
+            "title": "Community Tierlist, Blank servant as your roommate potential series (Day 92 Iskandar)",
+            "url": "https://www.reddit.com/r/Fate/comments/1wl6w48/community_tierlist_blank_servant_as_your_roommate/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:03:26+00:00",
+            "seen": "2026-09-20T04:19:22+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "A Request of Information - The Tiangui Star",
-            "url": "https://www.reddit.com/r/thepinkysyndicate/comments/1wl6kha/a_request_of_information_the_tiangui_star/",
+            "title": "Spin for your startup",
+            "url": "https://www.reddit.com/r/Startup_Ideas/comments/1wl6vsw/spin_for_your_startup/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:02:32+00:00",
+            "seen": "2026-09-20T04:18:54+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Daily Discussion Thread for September 20, 2026",
-            "url": "https://www.reddit.com/r/IntuitiveMachines/comments/1wl6jzs/daily_discussion_thread_for_september_20_2026/",
+            "title": "idk if i can be this cool again",
+            "url": "https://www.reddit.com/r/PeakGame/comments/1wl6vj4/idk_if_i_can_be_this_cool_again/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:01:56+00:00",
+            "seen": "2026-09-20T04:18:31+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Guests Using Filters",
-            "url": "https://www.reddit.com/r/msnow/comments/1wl6jz2/guests_using_filters/",
+            "title": "My Japan Itinerary. Looking for any advice or recommendations? What do you guys think?",
+            "url": "https://www.reddit.com/r/TokyoTravel/comments/1wl6vd9/my_japan_itinerary_looking_for_any_advice_or/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:01:54+00:00",
+            "seen": "2026-09-20T04:18:17+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Looking for a Replica Fashion Personal Shopper / Sourcing Agent – Men, Women & Kids",
-            "url": "https://www.reddit.com/r/SupplierSourcing/comments/1wl6jyf/looking_for_a_replica_fashion_personal_shopper/",
+            "title": "📢 Oscar Associates (americas), Llc [HIRING] a Market Medical Officer, Texas + West!",
+            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wl6v6h/oscar_associates_americas_llc_hiring_a_market/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:01:53+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Tournament Report: New White Weenie",
-            "url": "https://www.reddit.com/r/Pauper/comments/1wl6jvr/tournament_report_new_white_weenie/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T04:01:48+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Every AI story says the bottleneck is electricity. The power stocks are the worst trade in AI this year",
-            "url": "https://www.reddit.com/r/FMPDATA/comments/1wl6jrb/every_ai_story_says_the_bottleneck_is_electricity/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T04:01:39+00:00",
+            "seen": "2026-09-20T04:18:01+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "Booking LA Knight/Roman Reigns title picture",
+            "url": "https://www.reddit.com/r/fantasybooking/comments/1wl6v1h/booking_la_knightroman_reigns_title_picture/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T04:17:50+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Great Car, Really Bad Service (Magnite CVT)",
+            "url": "https://www.reddit.com/r/CarsIndia/comments/1wl6uth/great_car_really_bad_service_magnite_cvt/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T04:17:30+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
           }
         ]
       },
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 116226.96,
+    "age_seconds": 116349.913266,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T00:17:06.771765-04:00",
+      "local_time": "2026-09-20T00:19:09.725031-04:00",
       "market": "US"
     }
   },
