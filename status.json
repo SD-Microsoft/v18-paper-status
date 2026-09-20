@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T05:42:31.512486+00:00",
+  "timestamp_utc": "2026-09-20T05:44:56.972961+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T05:27:42.828448+00:00",
+    "timestamp_utc": "2026-09-20T05:44:35.792514+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -551,8 +551,8 @@
         "score": 0.0,
         "article_count": 1,
         "accepted_count": 1,
-        "rejected_count": 7,
-        "duplicate_count": 0,
+        "rejected_count": 6,
+        "duplicate_count": 1,
         "categories": {
           "macro": 1
         },
@@ -561,10 +561,10 @@
         },
         "items": [
           {
-            "title": "Need a loan for a gallon of gas",
-            "url": "https://www.reddit.com/r/Political_Revolution/comments/1wl86hn/need_a_loan_for_a_gallon_of_gas/",
+            "title": "Need suggestions for portable gas heaters as boiler won’t work if electricity blackout",
+            "url": "https://www.reddit.com/r/UKPreppers/comments/1wl8hbg/need_suggestions_for_portable_gas_heaters_as/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:27:03+00:00",
+            "seen": "2026-09-20T05:43:32+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.25,
@@ -583,50 +583,42 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Help with am4 fair market value",
-            "url": "https://www.reddit.com/r/PHbuildapc/comments/1wl86k9/help_with_am4_fair_market_value/",
+            "title": "Lassan érkezik az Avatar: Steven Havens. Ki fogja nézni? Ki mit vár tőle?",
+            "url": "https://www.reddit.com/r/kibeszelo_show/comments/1wl8i0y/lassan_érkezik_az_avatar_steven_havens_ki_fogja/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:27:08+00:00",
+            "seen": "2026-09-20T05:44:35+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "crazy focus",
+            "url": "https://www.reddit.com/r/hoi4/comments/1wl8hnx/crazy_focus/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T05:44:02+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "What is happening with XDJ-AZ stock and pricing in Dubai? AE",
+            "url": "https://www.reddit.com/r/PioneerDJ/comments/1wl8hlz/what_is_happening_with_xdjaz_stock_and_pricing_in/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T05:43:57+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Greece Island Santorini Inspired Home Island ˖°𓇼🌊⋆🐚",
-            "url": "https://www.reddit.com/r/InfinityNikki/comments/1wl86ho/greece_island_santorini_inspired_home_island_𓇼/",
+            "title": "How I Pick Stocks for Long-Term Investing — What Am I Missing?",
+            "url": "https://www.reddit.com/r/GrowthStockInvesting/comments/1wl8hhd/how_i_pick_stocks_for_longterm_investing_what_am/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:27:03+00:00",
+            "seen": "2026-09-20T05:43:45+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_finance_context"
+            "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Inch (September Submission)",
-            "url": "https://www.reddit.com/r/TalesFromTheCreeps/comments/1wl86hm/inch_september_submission/",
+            "title": "Hi! It's me, Helen! I just made my first Facebook post!",
+            "url": "https://www.reddit.com/r/HelensDeafClub/comments/1wl8hdb/hi_its_me_helen_i_just_made_my_first_facebook_post/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T05:27:02+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Dharamshala exploration",
-            "url": "https://www.reddit.com/r/Dharamshala/comments/1wl86cd/dharamshala_exploration/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T05:26:47+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Indonesian CEO reveals how a holiday trip to Nigeria turned into a Billion-Dollar Business",
-            "url": "https://www.reddit.com/r/Nigeria/comments/1wl8688/indonesian_ceo_reveals_how_a_holiday_trip_to/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T05:26:37+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "⚙️ Gears Of Wars | Pro Gamers | Persona 5 The Phantom X Part 1153 Haunted Beach Shack Pt.2; Ch.10 The In...",
-            "url": "https://www.reddit.com/r/GearsOfWars/comments/1wl867z/gears_of_wars_pro_gamers_persona_5_the_phantom_x/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T05:26:37+00:00",
+            "seen": "2026-09-20T05:43:36+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +685,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 121260.937446,
+    "age_seconds": 121385.054479,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T01:41:00.749211-04:00",
+      "local_time": "2026-09-20T01:43:04.866244-04:00",
       "market": "US"
     }
   },
