@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T04:52:04.740488+00:00",
+  "timestamp_utc": "2026-09-20T04:54:26.950929+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T04:37:24.448909+00:00",
+    "timestamp_utc": "2026-09-20T04:54:08.430629+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,13 +549,30 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 0,
-        "accepted_count": 0,
-        "rejected_count": 8,
+        "article_count": 1,
+        "accepted_count": 1,
+        "rejected_count": 7,
         "duplicate_count": 0,
-        "categories": {},
-        "category_scores": {},
-        "items": [],
+        "categories": {
+          "politics_regulation": 1
+        },
+        "category_scores": {
+          "politics_regulation": 0.0
+        },
+        "items": [
+          {
+            "title": "Trump tariffs making beer cans more expensive for Canadian producers",
+            "url": "https://www.reddit.com/r/Tariffs/comments/1wl7if8/trump_tariffs_making_beer_cans_more_expensive_for/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T04:51:48+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "politics_regulation"
+            ]
+          }
+        ],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -566,58 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "JioGames Cloud Games showing “Not Valid URL” on Fire TV Stick",
-            "url": "https://www.reddit.com/r/JioGames_Official/comments/1wl78dl/jiogames_cloud_games_showing_not_valid_url_on/",
+            "title": "Seeking mortgage guidance",
+            "url": "https://www.reddit.com/r/AskMortgageCanada/comments/1wl7iho/seeking_mortgage_guidance/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:37:00+00:00",
+            "seen": "2026-09-20T04:51:55+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Your Amazon Account Already Knows What to Do Next Week. I Made It Talk.",
-            "url": "https://www.reddit.com/r/smallbusinessowner/comments/1wl78c0/your_amazon_account_already_knows_what_to_do_next/",
+            "title": "The ₹1 Crore Question ?",
+            "url": "https://www.reddit.com/r/InvestWithDiscipline/comments/1wl7igz/the_1_crore_question/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:36:56+00:00",
+            "seen": "2026-09-20T04:51:53+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Weird mummified face used as a jumpscare in Scooby-Doo; Escape From The Coolsonian. The game was marketed to kids to promote Scooby-Doo 2; Monsters Unleashed. (Full video in comments)",
-            "url": "https://www.reddit.com/r/creepygaming/comments/1wl78bi/weird_mummified_face_used_as_a_jumpscare_in/",
+            "title": "How can we get more returns in stock market?",
+            "url": "https://www.reddit.com/r/investingforbeginners/comments/1wl7ib3/how_can_we_get_more_returns_in_stock_market/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:36:54+00:00",
+            "seen": "2026-09-20T04:51:39+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "[Store] NEW SUPER DISCOUNTED - Winter 2025/Cosmic 2025/Spring 2025 Heroes Hoard/Winter 2024/August 2023/Diretide 2022/Aghanim's/Nemestice/Collector's Caches Sets/TI10/TI9/TI8/TI7",
-            "url": "https://www.reddit.com/r/Dota2Trade/comments/1wl78b6/store_new_super_discounted_winter_2025cosmic/",
+            "title": "How does one market?",
+            "url": "https://www.reddit.com/r/founder/comments/1wl7ia7/how_does_one_market/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:36:54+00:00",
+            "seen": "2026-09-20T04:51:37+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_finance_context"
+            "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Having doubts about leaving my job",
-            "url": "https://www.reddit.com/r/WorkAdvice/comments/1wl78ai/having_doubts_about_leaving_my_job/",
+            "title": "Fabric market in delhi/gurgaon",
+            "url": "https://www.reddit.com/r/u_Successful-Tailor699/comments/1wl7ia6/fabric_market_in_delhigurgaon/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:36:52+00:00",
+            "seen": "2026-09-20T04:51:37+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_finance_context"
+            "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Why World War One REALLY Happened (part 1)",
-            "url": "https://www.reddit.com/r/MarxistSocialClub/comments/1wl7875/why_world_war_one_really_happened_part_1/",
+            "title": "Future thoughts on State pension tax without private pension but savings/investments",
+            "url": "https://www.reddit.com/r/FIREUK/comments/1wl7i5s/future_thoughts_on_state_pension_tax_without/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:36:45+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Deal Check: 2018 Toyota Camry LE (142k miles) - $15.2k OTD in AZ. Good buy or walk?",
-            "url": "https://www.reddit.com/r/UsedCars/comments/1wl77zy/deal_check_2018_toyota_camry_le_142k_miles_152k/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T04:36:28+00:00",
+            "seen": "2026-09-20T04:51:27+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 118234.931373,
+    "age_seconds": 118357.988719,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T00:50:34.743138-04:00",
+      "local_time": "2026-09-20T00:52:37.800484-04:00",
       "market": "US"
     }
   },
