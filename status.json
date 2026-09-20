@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T07:55:20.179730+00:00",
+  "timestamp_utc": "2026-09-20T07:57:42.162736+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T07:40:35.264330+00:00",
+    "timestamp_utc": "2026-09-20T07:57:22.670730+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,13 +549,30 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 0,
-        "accepted_count": 0,
-        "rejected_count": 8,
+        "article_count": 1,
+        "accepted_count": 1,
+        "rejected_count": 7,
         "duplicate_count": 0,
-        "categories": {},
-        "category_scores": {},
-        "items": [],
+        "categories": {
+          "politics_regulation": 1
+        },
+        "category_scores": {
+          "politics_regulation": 0.0
+        },
+        "items": [
+          {
+            "title": "Municipalities demand B.C. to optimize industrial lands amid U.S. tariff pressures",
+            "url": "https://www.reddit.com/r/ilovebcsub/comments/1wlaw73/municipalities_demand_bc_to_optimize_industrial/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T07:56:50+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "politics_regulation"
+            ]
+          }
+        ],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -566,58 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "I'm starting to hate my boyfriend..",
-            "url": "https://www.reddit.com/r/relationships/comments/1wlal8e/im_starting_to_hate_my_boyfriend/",
+            "title": "📢 Ewor [HIRING] a Cybersecurity Content Marketing Manager (100 % Remote) (m/f/d)!",
+            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wlaw5c/ewor_hiring_a_cybersecurity_content_marketing/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:38:51+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Female Flatmate Req. | sector 28 Galleria market",
-            "url": "https://www.reddit.com/r/GurgaonRent/comments/1wlal62/female_flatmate_req_sector_28_galleria_market/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T07:38:45+00:00",
+            "seen": "2026-09-20T07:56:45+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "The Beacon",
-            "url": "https://www.reddit.com/r/OCPoetry/comments/1wlal2z/the_beacon/",
+            "title": "GWM, Haval & Chery Service Light Reset Guide: Clearing Maintenance Warnings in AU",
+            "url": "https://www.reddit.com/r/ChineseCarsAustralia/comments/1wlaw4b/gwm_haval_chery_service_light_reset_guide/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:38:36+00:00",
+            "seen": "2026-09-20T07:56:42+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Car rental places in Ottawa with EV's",
-            "url": "https://www.reddit.com/r/ottawa/comments/1wlal09/car_rental_places_in_ottawa_with_evs/",
+            "title": "[HIRING] [REMOTE] a Global Vp Marketing! in 360learning",
+            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wlaw0r/hiring_remote_a_global_vp_marketing_in_360learning/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:38:29+00:00",
+            "seen": "2026-09-20T07:56:34+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "Is implementing ML in job role different from knowing mathematics of ML?",
+            "url": "https://www.reddit.com/r/learnmachinelearning/comments/1wlaw02/is_implementing_ml_in_job_role_different_from/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T07:56:33+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Who are the people that surrounds Ovechkin in the campaign for United Russia? And what do they think about USA and Washington?",
-            "url": "https://www.reddit.com/r/hockey/comments/1wlal04/who_are_the_people_that_surrounds_ovechkin_in_the/",
+            "title": "📢 Cook Group [HIRING] a Global Product Marketing Manager, Aortic!",
+            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wlavwl/cook_group_hiring_a_global_product_marketing/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:38:28+00:00",
+            "seen": "2026-09-20T07:56:23+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_finance_context"
+            "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Using virtual cards for SaaS subscriptions — what works for you?",
-            "url": "https://www.reddit.com/r/VCC_CrossBorder/comments/1wlaky0/using_virtual_cards_for_saas_subscriptions_what/",
+            "title": "Has changing your mattress actually helped with back pain?",
+            "url": "https://www.reddit.com/r/backpain/comments/1wlavw7/has_changing_your_mattress_actually_helped_with/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:38:23+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Working at Burlington",
-            "url": "https://www.reddit.com/r/BurlingtonCoatFactory/comments/1wlakws/working_at_burlington/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T07:38:19+00:00",
+            "seen": "2026-09-20T07:56:22+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 129229.936117,
+    "age_seconds": 129352.91516,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T03:53:49.747882-04:00",
+      "local_time": "2026-09-20T03:55:52.726925-04:00",
       "market": "US"
     }
   },
