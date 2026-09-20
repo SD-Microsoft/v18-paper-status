@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T06:49:51.392518+00:00",
+  "timestamp_utc": "2026-09-20T06:52:12.622889+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T06:35:09.434813+00:00",
+    "timestamp_utc": "2026-09-20T06:51:55.324368+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -566,58 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "I hate how my life feels right now",
-            "url": "https://www.reddit.com/r/hatethissmug/comments/1wl9eps/i_hate_how_my_life_feels_right_now/",
+            "title": "My GF(25) is upset of me(29) for my apparent use of soc med.",
+            "url": "https://www.reddit.com/r/OffMyChestPH/comments/1wl9pot/my_gf25_is_upset_of_me29_for_my_apparent_use_of/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:33:47+00:00",
+            "seen": "2026-09-20T06:50:21+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "$50 if you don’t have poly market",
-            "url": "https://www.reddit.com/r/UseMyReferral/comments/1wl9eoi/50_if_you_dont_have_poly_market/",
+            "title": "What is something that was clearly made for adults but marketed to children?",
+            "url": "https://www.reddit.com/r/answers/comments/1wl9pok/what_is_something_that_was_clearly_made_for/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:33:43+00:00",
+            "seen": "2026-09-20T06:50:21+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "What major should i choose?",
-            "url": "https://www.reddit.com/r/Career_Advice/comments/1wl9el3/what_major_should_i_choose/",
+            "title": "Paramedics prescribing rights",
+            "url": "https://www.reddit.com/r/newzealand/comments/1wl9poj/paramedics_prescribing_rights/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:33:34+00:00",
+            "seen": "2026-09-20T06:50:21+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Why are people so performative with wars?",
-            "url": "https://www.reddit.com/r/askanything/comments/1wl9eii/why_are_people_so_performative_with_wars/",
+            "title": "These are 7 of Australia's cheapest capital city suburbs, and some could be among the strongest performers over the next 12 to 18 months.",
+            "url": "https://www.reddit.com/r/AusPropertyMasteryPK/comments/1wl9pkk/these_are_7_of_australias_cheapest_capital_city/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:33:28+00:00",
+            "seen": "2026-09-20T06:50:11+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Looking for Female Flatmate for a preoccupied flat near Galleria (4kms from Cyber Hub)",
-            "url": "https://www.reddit.com/r/GurgaonRentals/comments/1wl9eg8/looking_for_female_flatmate_for_a_preoccupied/",
+            "title": "Throwback to the time when Shilpa Shetty won big brother UK after facing racism and the issue even went to the UK Parliament. Inframe: Shilpa Shetty",
+            "url": "https://www.reddit.com/r/InstaCelebsGossip/comments/1wl9pam/throwback_to_the_time_when_shilpa_shetty_won_big/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:33:22+00:00",
+            "seen": "2026-09-20T06:49:42+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Claude Opus 4.6 vs GPT-5.3 Codex: The Ultimate AI Coding Battle for 2026",
-            "url": "https://www.reddit.com/r/AffiGrowth/comments/1wl9ebi/claude_opus_46_vs_gpt53_codex_the_ultimate_ai/",
+            "title": "I wanted to create a card game set in a dark world, exploring what happens when you sell your soul. In the underworld, souls are played with as if they were cards. - Dead Market",
+            "url": "https://www.reddit.com/r/pcgames/comments/1wl9pai/i_wanted_to_create_a_card_game_set_in_a_dark/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:33:09+00:00",
+            "seen": "2026-09-20T06:49:42+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_finance_context"
+            "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Why World War 1 REALLY Happened: Post War - Part 6",
-            "url": "https://www.reddit.com/r/historyvideos/comments/1wl9e91/why_world_war_1_really_happened_post_war_part_6/",
+            "title": "Instead of fighting Danzo, Sasuke faces war arc Kakashi. Who wins?",
+            "url": "https://www.reddit.com/r/NarutoPowerscaling/comments/1wl9pab/instead_of_fighting_danzo_sasuke_faces_war_arc/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:33:03+00:00",
+            "seen": "2026-09-20T06:49:42+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 125300.908843,
+    "age_seconds": 125424.912729,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T02:48:20.720608-04:00",
+      "local_time": "2026-09-20T02:50:24.724494-04:00",
       "market": "US"
     }
   },
