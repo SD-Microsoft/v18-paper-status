@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T08:12:07.050276+00:00",
+  "timestamp_utc": "2026-09-20T08:14:31.682318+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T07:57:22.670730+00:00",
+    "timestamp_utc": "2026-09-20T08:14:14.428421+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -554,22 +554,22 @@
         "rejected_count": 7,
         "duplicate_count": 0,
         "categories": {
-          "politics_regulation": 1
+          "macro": 1
         },
         "category_scores": {
-          "politics_regulation": 0.0
+          "macro": 0.0
         },
         "items": [
           {
-            "title": "Municipalities demand B.C. to optimize industrial lands amid U.S. tariff pressures",
-            "url": "https://www.reddit.com/r/ilovebcsub/comments/1wlaw73/municipalities_demand_bc_to_optimize_industrial/",
+            "title": "My Tribute to Hockney, Eric Yap, Oil Pastel, 2026",
+            "url": "https://www.reddit.com/r/beaniestudios/comments/1wlb6cp/my_tribute_to_hockney_eric_yap_oil_pastel_2026/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:56:50+00:00",
+            "seen": "2026-09-20T08:12:40+00:00",
             "source_type": "forum",
             "headline_sentiment": 0,
             "source_weight": 0.25,
             "categories": [
-              "politics_regulation"
+              "macro"
             ]
           }
         ],
@@ -583,50 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "📢 Ewor [HIRING] a Cybersecurity Content Marketing Manager (100 % Remote) (m/f/d)!",
-            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wlaw5c/ewor_hiring_a_cybersecurity_content_marketing/",
+            "title": "Looking for a Job: Immediate Joiner",
+            "url": "https://www.reddit.com/r/Indiajobs/comments/1wlb6fo/looking_for_a_job_immediate_joiner/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:56:45+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "GWM, Haval & Chery Service Light Reset Guide: Clearing Maintenance Warnings in AU",
-            "url": "https://www.reddit.com/r/ChineseCarsAustralia/comments/1wlaw4b/gwm_haval_chery_service_light_reset_guide/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T07:56:42+00:00",
+            "seen": "2026-09-20T08:12:48+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "[HIRING] [REMOTE] a Global Vp Marketing! in 360learning",
-            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wlaw0r/hiring_remote_a_global_vp_marketing_in_360learning/",
+            "title": "American Reacts to Robot Wars: The Second Wars (Semi Finals)",
+            "url": "https://www.reddit.com/r/Taffe316/comments/1wlb6en/american_reacts_to_robot_wars_the_second_wars/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:56:34+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "Is implementing ML in job role different from knowing mathematics of ML?",
-            "url": "https://www.reddit.com/r/learnmachinelearning/comments/1wlaw02/is_implementing_ml_in_job_role_different_from/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T07:56:33+00:00",
+            "seen": "2026-09-20T08:12:45+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "📢 Cook Group [HIRING] a Global Product Marketing Manager, Aortic!",
-            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wlavwl/cook_group_hiring_a_global_product_marketing/",
+            "title": "Nachts laufen",
+            "url": "https://www.reddit.com/r/laufen/comments/1wlb6c5/nachts_laufen/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:56:23+00:00",
+            "seen": "2026-09-20T08:12:39+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_macro_event"
+            "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Has changing your mattress actually helped with back pain?",
-            "url": "https://www.reddit.com/r/backpain/comments/1wlavw7/has_changing_your_mattress_actually_helped_with/",
+            "title": "2023 Hatchback XSE with 64k miles",
+            "url": "https://www.reddit.com/r/COROLLA/comments/1wlb69e/2023_hatchback_xse_with_64k_miles/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:56:22+00:00",
+            "seen": "2026-09-20T08:12:32+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "BAföG + Hochschulwechsel (gleiches Fach) – jemand dieselbe Situation gehabt?",
+            "url": "https://www.reddit.com/r/u_Ok_Swimming_8189/comments/1wlb682/bafög_hochschulwechsel_gleiches_fach_jemand/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T08:12:28+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "50 Question Sunday Quiz - Connection, Homographs, Sports, and GK",
+            "url": "https://www.reddit.com/r/trivia/comments/1wlb681/50_question_sunday_quiz_connection_homographs/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T08:12:28+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 130233.93024,
+    "age_seconds": 130359.898244,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T04:10:33.742005-04:00",
+      "local_time": "2026-09-20T04:12:39.710009-04:00",
       "market": "US"
     }
   },
