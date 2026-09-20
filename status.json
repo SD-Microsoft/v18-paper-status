@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T02:37:41.505835+00:00",
+  "timestamp_utc": "2026-09-20T02:40:07.693769+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,114 +541,112 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T02:22:57.625895+00:00",
+    "timestamp_utc": "2026-09-20T02:39:45.329950+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
     },
     "targets": {
       "MACRO": {
-        "score": -33.3,
+        "score": 0.0,
         "article_count": 2,
         "accepted_count": 2,
-        "rejected_count": 26,
-        "duplicate_count": 0,
+        "rejected_count": 22,
+        "duplicate_count": 4,
         "categories": {
-          "geopolitics": 1,
-          "politics_regulation": 1
+          "macro": 2
         },
         "category_scores": {
-          "geopolitics": -1.3,
-          "politics_regulation": 0.0
+          "macro": 0.0
         },
         "items": [
           {
-            "title": "Beijing slams new US sanctions against Russia",
-            "url": "http://www.russiaherald.com/news/279317677/beijing-slams-new-us-sanctions-against-russia",
-            "domain": "russiaherald.com",
-            "seen": "20260920T003000Z",
-            "source_type": "news",
-            "headline_sentiment": -2,
-            "source_weight": 0.65,
-            "categories": [
-              "geopolitics"
-            ]
-          },
-          {
-            "title": "  Faulty , political and ridiculous decisions : Trump hits out at US Supreme Court over tariffs , birthright citizenship",
-            "url": "http://www.russiaherald.com/news/279317792/faulty-political-and-ridiculous-decisions-trump-hits-out-at-us-supreme-court-over-tariffs-birthright-citizenship",
-            "domain": "russiaherald.com",
-            "seen": "20260920T003000Z",
+            "title": "Cummins Built One Engine Block That Runs On Diesel , Natural Gas , Or Hydrogen",
+            "url": "https://carbuzz.com/cummins-engine-that-can-run-on-diesel-natural-gas-or-hydrogen/",
+            "domain": "carbuzz.com",
+            "seen": "20260920T023000Z",
             "source_type": "news",
             "headline_sentiment": 0,
             "source_weight": 0.65,
             "categories": [
-              "politics_regulation"
+              "macro"
+            ]
+          },
+          {
+            "title": "What is the proper oil can routing for an L28et?",
+            "url": "https://www.reddit.com/r/Datsun/comments/1wl4wyh/what_is_the_proper_oil_can_routing_for_an_l28et/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T02:38:26+00:00",
+            "source_type": "forum",
+            "headline_sentiment": 0,
+            "source_weight": 0.25,
+            "categories": [
+              "macro"
             ]
           }
         ],
         "rejected_samples": [
           {
-            "title": "Notre semaine culturelle : Dee Dee Bridgewater , Souad Massi , Richard Bona , Mamani Keïta , Zeinab Badawi … | PlaneteAfrique",
-            "url": "https://planeteafrique.com/Actualites/index.asp?affiche=News_Display.asp&ID=17827",
-            "domain": "planeteafrique.com",
-            "seen": "20260920T003000Z",
+            "title": "AP News in Brief at 9 : 04 p . m . EDT",
+            "url": "http://www.thegazette.com/news/national/ap-news-in-brief-at-9-04-p-m-edt/article_ee2f8513-22c2-5f65-81da-cbcd9e5d89ff.html",
+            "domain": "thegazette.com",
+            "seen": "20260920T023000Z",
             "source_type": "news",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Descubrieron el planeta más joven conocido y dos científicos argentinos participaron del histórico hallazgo",
-            "url": "https://www.cronica.com.ar/sociedad/descubrieron-el-planeta-mas-joven-conocido-y-un-cientifico-argentino-participo-del-historico-hallazgo/",
-            "domain": "cronica.com.ar",
-            "seen": "20260920T003000Z",
+            "title": "Mỹ phát cảnh báo an ninh khắp Trung Đông",
+            "url": "https://dantri.com.vn/the-gioi/my-phat-canh-bao-an-ninh-khap-trung-dong-20260920080810218.htm",
+            "domain": "dantri.com.vn",
+            "seen": "20260920T023000Z",
             "source_type": "news",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Mark Carney relationship with Trump is changing in real time . Is anyone keeping up ? ",
-            "url": "https://www.stcatharinesstandard.ca/politics/federal/mark-carney-s-relationship-with-trump-is-changing-in-real-time-is-anyone-keeping-up/article_8d841664-a0df-5b1a-b854-1d13fbc6be0e.html",
-            "domain": "stcatharinesstandard.ca",
-            "seen": "20260920T003000Z",
+            "title": "Barnes Foundation presents exhibition exploring Japanese American artists and postwar design",
+            "url": "https://artdaily.com/news/200414/Barnes-Foundation-presents-exhibition-exploring-Japanese-American-artists-and-postwar-design",
+            "domain": "artdaily.com",
+            "seen": "20260920T023000Z",
             "source_type": "news",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "ایران جنگ میں امریکا کا بھاری جانی و مالی نقصان سامنے آگیا",
-            "url": "https://jang.com.pk/news/1617332",
-            "domain": "jang.com.pk",
-            "seen": "20260920T003000Z",
+            "title": "Iran gửi điều khoản đàm phán hòa bình tới Mỹ",
+            "url": "https://baomoi.com/iran-gui-dieu-khoan-dam-phan-hoa-binh-toi-my-c56089328.epi",
+            "domain": "baomoi.com",
+            "seen": "20260920T023000Z",
             "source_type": "news",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Larmatore Stefano Messina : « Se si blocca Bab el - Mandeb , più inflazione e danni alle esportazioni italiane » ",
-            "url": "https://roma.corriere.it/notizie/26_settembre_19/armatore-stefano-messina-bab-el-mandeb-431e06fe-5ec6-487c-ae12-d81393692xlk.shtml",
-            "domain": "roma.corriere.it",
-            "seen": "20260920T003000Z",
+            "title": "2027 : States plot to silence opposition with N7 . 4 billion",
+            "url": "https://thesun.ng/2027-states-plot-to-silence-opposition-with-n7-4-billion-billboard-levies/",
+            "domain": "thesun.ng",
+            "seen": "20260920T023000Z",
             "source_type": "news",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Anak Krakatoa rugió por más de 24 horas , lanzó ceniza a 49 000 pies de altura y dejó a 340 000 pasajeros varados cuando sus nubes cerraron el cielo sobre Indonesia",
-            "url": "https://www.ecoportal.net/tecnologia/anak-krakatoa-erupcion-ceniza-volcan/",
-            "domain": "ecoportal.net",
-            "seen": "20260920T003000Z",
+            "title": "Watch Night 2 Of Our iHeartRadio Music Festival ! ",
+            "url": "https://wgci.iheart.com/content/2026-09-19-watch-night-2-of-our-iheartradio-music-festival/",
+            "domain": "wgci.iheart.com",
+            "seen": "20260920T023000Z",
             "source_type": "news",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Montour Falls public market plans shops , lodging at former Stillman site",
-            "url": "https://www.fingerlakes1.com/2026/09/19/montour-falls-public-market-plans-shops-lodging-at-former-stillmans-site/",
-            "domain": "fingerlakes1.com",
-            "seen": "20260920T003000Z",
+            "title": "Deltan Dallagnol tem campanha suspensa após pedido do PT",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/deltan-dallagnol-tem-campanha-suspensa-apos-pedido-do-pt-ao-tse/",
+            "domain": "gazetadopovo.com.br",
+            "seen": "20260920T023000Z",
             "source_type": "news",
-            "rejection_reason": "no_macro_event"
+            "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Head - To - Head Survey : Unifi ( NYSE : UFI ) versus Ralph Lauren ( NYSE : RL ) ",
-            "url": "https://www.tickerreport.com/banking-finance/13590642/head-to-head-survey-unifi-nyseufi-versus-ralph-lauren-nyserl.html",
-            "domain": "tickerreport.com",
-            "seen": "20260920T003000Z",
+            "title": "Nâng hạng thị trường chứng khoán : ức ép  tiếp tục cải cách ? ",
+            "url": "https://baomoi.com/nang-hang-thi-truong-chung-khoan-suc-ep-tiep-tuc-cai-cach-c56089206.epi",
+            "domain": "baomoi.com",
+            "seen": "20260920T023000Z",
             "source_type": "news",
             "rejection_reason": "no_finance_context"
           }
@@ -715,12 +713,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 110170.935894,
+    "age_seconds": 110294.97233,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T22:36:10.747659-04:00",
+      "local_time": "2026-09-19T22:38:14.784095-04:00",
       "market": "US"
     }
   },
