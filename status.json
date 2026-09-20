@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T03:11:23.995724+00:00",
+  "timestamp_utc": "2026-09-20T03:13:44.364748+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T02:56:41.917969+00:00",
+    "timestamp_utc": "2026-09-20T03:13:27.051161+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -566,58 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Available for being a co founder",
-            "url": "https://www.reddit.com/r/cofounderhunt/comments/1wl5970/available_for_being_a_co_founder/",
+            "title": "Got the notification for Prowl from Target",
+            "url": "https://www.reddit.com/r/transformers/comments/1wl5lzs/got_the_notification_for_prowl_from_target/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T02:55:36+00:00",
+            "seen": "2026-09-20T03:13:16+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Finding apps which can deliver depression related meds",
-            "url": "https://www.reddit.com/r/PataHaiAajKyaHua/comments/1wl596t/finding_apps_which_can_deliver_depression_related/",
+            "title": "Hot take: Many of the dub fans tend to downplay other dubs in favor of their preferred one.",
+            "url": "https://www.reddit.com/r/winxclub/comments/1wl5lyh/hot_take_many_of_the_dub_fans_tend_to_downplay/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T02:55:35+00:00",
+            "seen": "2026-09-20T03:13:13+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "📢 Jobgether [HIRING] a Marketing & Data Analyst!",
-            "url": "https://www.reddit.com/r/jobboardsearch/comments/1wl595v/jobgether_hiring_a_marketing_data_analyst/",
+            "title": "If I had the choice to buy a 94 or a 96 gm car and the 94 was a obd1.5 and the 96 was a obd 2, would I miss out on allot of tuning capability? I heard obd1.5 is worse than 1 .",
+            "url": "https://www.reddit.com/r/ECU_Tuning/comments/1wl5ly3/if_i_had_the_choice_to_buy_a_94_or_a_96_gm_car/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T02:55:33+00:00",
+            "seen": "2026-09-20T03:13:12+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "What's the Future of the Bilingual BPO Industry and Market with AI?",
+            "url": "https://www.reddit.com/r/BPOinPH/comments/1wl5lqu/whats_the_future_of_the_bilingual_bpo_industry/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T03:12:55+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Rent Stabilized Studio | $2,395 | Columbia Water Front",
-            "url": "https://www.reddit.com/r/NYCApartmentHunting/comments/1wl595p/rent_stabilized_studio_2395_columbia_water_front/",
+            "title": "Wall thickness vs wind load — what we actually measure on the factory floor",
+            "url": "https://www.reddit.com/r/glazing/comments/1wl5loz/wall_thickness_vs_wind_load_what_we_actually/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T02:55:32+00:00",
+            "seen": "2026-09-20T03:12:50+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Gillian Anderson posts a video about the humanitarian crisis in Sudan, where a civil war between the Sudanese Armed Forces and the Rapid Support Forces has created the largest displacement and hunger crisis in the world. More than 33 million people are in need of urgent humanitarian assistance.",
-            "url": "https://www.reddit.com/r/Sudan/comments/1wl5957/gillian_anderson_posts_a_video_about_the/",
+            "title": "Welcome to r/Tradesnaut — turn market chaos into profits",
+            "url": "https://www.reddit.com/r/Tradesnaut/comments/1wl5lmr/welcome_to_rtradesnaut_turn_market_chaos_into/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T02:55:32+00:00",
+            "seen": "2026-09-20T03:12:45+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_finance_context"
+            "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Thoughts on this card?",
-            "url": "https://www.reddit.com/r/OnePieceTCG/comments/1wl5950/thoughts_on_this_card/",
+            "title": "Compsoraptor event difficulty",
+            "url": "https://www.reddit.com/r/JurassicWorldApp/comments/1wl5lju/compsoraptor_event_difficulty/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T02:55:31+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Anyone want to see how far we get?",
-            "url": "https://www.reddit.com/r/Monopoly_GO/comments/1wl5948/anyone_want_to_see_how_far_we_get/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T02:55:30+00:00",
+            "seen": "2026-09-20T03:12:37+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 112193.947809,
+    "age_seconds": 112316.97093,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T23:09:53.759574-04:00",
+      "local_time": "2026-09-19T23:11:56.782695-04:00",
       "market": "US"
     }
   },
