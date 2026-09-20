@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T05:08:54.527261+00:00",
+  "timestamp_utc": "2026-09-20T05:11:15.417784+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T04:54:08.430629+00:00",
+    "timestamp_utc": "2026-09-20T05:10:57.998205+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,30 +549,13 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 1,
-        "accepted_count": 1,
-        "rejected_count": 7,
+        "article_count": 0,
+        "accepted_count": 0,
+        "rejected_count": 8,
         "duplicate_count": 0,
-        "categories": {
-          "politics_regulation": 1
-        },
-        "category_scores": {
-          "politics_regulation": 0.0
-        },
-        "items": [
-          {
-            "title": "Trump tariffs making beer cans more expensive for Canadian producers",
-            "url": "https://www.reddit.com/r/Tariffs/comments/1wl7if8/trump_tariffs_making_beer_cans_more_expensive_for/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T04:51:48+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.25,
-            "categories": [
-              "politics_regulation"
-            ]
-          }
-        ],
+        "categories": {},
+        "category_scores": {},
+        "items": [],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -583,50 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Seeking mortgage guidance",
-            "url": "https://www.reddit.com/r/AskMortgageCanada/comments/1wl7iho/seeking_mortgage_guidance/",
+            "title": "Long term maintenance concerns",
+            "url": "https://www.reddit.com/r/BMWi3/comments/1wl7uiu/long_term_maintenance_concerns/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:51:55+00:00",
+            "seen": "2026-09-20T05:09:30+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "The ₹1 Crore Question ?",
-            "url": "https://www.reddit.com/r/InvestWithDiscipline/comments/1wl7igz/the_1_crore_question/",
+            "title": "1994 Rockhopper Comp FS",
+            "url": "https://www.reddit.com/r/RockHopper/comments/1wl7ugq/1994_rockhopper_comp_fs/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:51:53+00:00",
+            "seen": "2026-09-20T05:09:25+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "How can we get more returns in stock market?",
-            "url": "https://www.reddit.com/r/investingforbeginners/comments/1wl7ib3/how_can_we_get_more_returns_in_stock_market/",
+            "title": "War",
+            "url": "https://www.reddit.com/r/Christianity/comments/1wl7ug3/war/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:51:39+00:00",
+            "seen": "2026-09-20T05:09:24+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_macro_event"
+            "rejection_reason": "no_finance_context"
           },
           {
-            "title": "How does one market?",
-            "url": "https://www.reddit.com/r/founder/comments/1wl7ia7/how_does_one_market/",
+            "title": "New city map!",
+            "url": "https://www.reddit.com/r/mapmaking/comments/1wl7u9e/new_city_map/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:51:37+00:00",
+            "seen": "2026-09-20T05:09:07+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_macro_event"
+            "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Fabric market in delhi/gurgaon",
-            "url": "https://www.reddit.com/r/u_Successful-Tailor699/comments/1wl7ia6/fabric_market_in_delhigurgaon/",
+            "title": "Wanted to post something here and opened community rules… do I really have to read entire book?",
+            "url": "https://www.reddit.com/r/marvelcirclejerk/comments/1wl7u6n/wanted_to_post_something_here_and_opened/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:51:37+00:00",
+            "seen": "2026-09-20T05:09:00+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_macro_event"
+            "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Future thoughts on State pension tax without private pension but savings/investments",
-            "url": "https://www.reddit.com/r/FIREUK/comments/1wl7i5s/future_thoughts_on_state_pension_tax_without/",
+            "title": "Tournament Metrics 9/19/26",
+            "url": "https://www.reddit.com/r/TheTowerGame/comments/1wl7u6k/tournament_metrics_91926/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T04:51:27+00:00",
+            "seen": "2026-09-20T05:09:00+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "esfp needs help figuring out enneagram type",
+            "url": "https://www.reddit.com/r/EnneagramTypeMe/comments/1wl7u4x/esfp_needs_help_figuring_out_enneagram_type/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T05:08:56+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 119243.944435,
+    "age_seconds": 119367.924621,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T01:07:23.756200-04:00",
+      "local_time": "2026-09-20T01:09:27.736386-04:00",
       "market": "US"
     }
   },
