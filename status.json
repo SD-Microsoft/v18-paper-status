@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T07:21:34.871483+00:00",
+  "timestamp_utc": "2026-09-20T07:23:58.632714+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T07:08:40.484828+00:00",
+    "timestamp_utc": "2026-09-20T07:23:41.338911+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -566,60 +566,60 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "[Hiring] Sales Reservation Agent | Marriott International | Dubai, UAE",
-            "url": "https://www.reddit.com/r/menajobs/comments/1wla1ga/hiring_sales_reservation_agent_marriott/",
+            "title": "Konačno vrijeme za ić doma. ^_^",
+            "url": "https://www.reddit.com/r/askCroatians/comments/1wlab4i/konačno_vrijeme_za_ić_doma/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:07:47+00:00",
+            "seen": "2026-09-20T07:22:50+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "#OnThisDay 1792, The Battle of Valmy",
-            "url": "https://www.reddit.com/r/onthisdayinworld/comments/1wla1c9/onthisday_1792_the_battle_of_valmy/",
+            "title": "Non clinical job opportunities post mbbs",
+            "url": "https://www.reddit.com/r/MedicalWriters/comments/1wlaazx/non_clinical_job_opportunities_post_mbbs/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:07:38+00:00",
+            "seen": "2026-09-20T07:22:37+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "What's your opinion on worlds that are just our world, but with fantasy/science fiction elements and small name changes?",
-            "url": "https://www.reddit.com/r/worldbuilding/comments/1wla1bw/whats_your_opinion_on_worlds_that_are_just_our/",
+            "title": "[FOR HIRE] $99/month I’ll handle your company's LinkedIn, X & Reddit distribution hands-on",
+            "url": "https://www.reddit.com/r/forhire/comments/1wlaazr/for_hire_99month_ill_handle_your_companys/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:07:37+00:00",
+            "seen": "2026-09-20T07:22:37+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Which Admiral had the strongest presence to you when they were first introduced? (For me, Akainu probably left the strongest first impression)",
-            "url": "https://www.reddit.com/r/OnePiece/comments/1wla1bu/which_admiral_had_the_strongest_presence_to_you/",
+            "title": "The Dons Secret Wife Was Mafia Royalty Novel",
+            "url": "https://www.reddit.com/r/MiniNovel/comments/1wlaatx/the_dons_secret_wife_was_mafia_royalty_novel/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:07:37+00:00",
+            "seen": "2026-09-20T07:22:24+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "🚀 DISCOUTHUB OFFICIAL | MEGA CLOUD & AI CREDITS STOCK",
-            "url": "https://www.reddit.com/r/discouthub/comments/1wla1a2/discouthub_official_mega_cloud_ai_credits_stock/",
+            "title": "Quotex Trading with 21 Indicators at Once",
+            "url": "https://www.reddit.com/r/ultimatefxtools/comments/1wlaasz/quotex_trading_with_21_indicators_at_once/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T07:07:32+00:00",
+            "seen": "2026-09-20T07:22:22+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Bad bench luck",
+            "url": "https://www.reddit.com/r/fantasypremierleague/comments/1wlaarg/bad_bench_luck/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T07:22:18+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Stray with eye infection - sarojini market delhi",
+            "url": "https://www.reddit.com/r/southdelhi/comments/1wlaard/stray_with_eye_infection_sarojini_market_delhi/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T07:22:18+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "[JOLYNE NENDO] Wait for re-release or just buy from what's in stock",
-            "url": "https://www.reddit.com/r/Nendoroid/comments/1wla13i/jolyne_nendo_wait_for_rerelease_or_just_buy_from/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T07:07:15+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "تحل بالذكاء المزبل و تقارن معي",
-            "url": "https://www.reddit.com/r/livingproof/comments/1wla13a/تحل_بالذكاء_المزبل_و_تقارن_معي/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T07:07:15+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
           }
         ]
       },
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 127202.898707,
+    "age_seconds": 127327.920773,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T03:20:02.710472-04:00",
+      "local_time": "2026-09-20T03:22:07.732538-04:00",
       "market": "US"
     }
   },
