@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T01:50:45.869826+00:00",
+  "timestamp_utc": "2026-09-20T01:53:12.603936+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T01:37:42.699157+00:00",
+    "timestamp_utc": "2026-09-20T01:52:54.818218+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -551,8 +551,8 @@
         "score": 0.0,
         "article_count": 0,
         "accepted_count": 0,
-        "rejected_count": 7,
-        "duplicate_count": 1,
+        "rejected_count": 8,
+        "duplicate_count": 0,
         "categories": {},
         "category_scores": {},
         "items": [],
@@ -566,50 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "The Valley Circle Theater in San Diego's Mission Valley was famous in 1977 for hosting the historic local opening and record-breaking run of the original Star Wars movie. The seating capacity was 1,000 seats and Star Wars played in that very same theater for 15 months. Those were great times!!!",
-            "url": "https://www.reddit.com/r/1970s/comments/1wl3nvi/the_valley_circle_theater_in_san_diegos_mission/",
+            "title": "PH-1 errors flashing recovery",
+            "url": "https://www.reddit.com/r/LineageOS/comments/1wl3yzr/ph1_errors_flashing_recovery/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:36:01+00:00",
+            "seen": "2026-09-20T01:51:05+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "CEO of Next Bridge Hydrocarbons to Speak With Lara Logan On September 22 [Related DD]",
-            "url": "https://www.reddit.com/r/u_-einfachman-/comments/1wl3no0/ceo_of_next_bridge_hydrocarbons_to_speak_with/",
+            "title": "[QCrit] THE CHILD OF GOLD AND SILVER, Adult Romantasy, 105k words, first attempt",
+            "url": "https://www.reddit.com/r/PubTips/comments/1wl3yy6/qcrit_the_child_of_gold_and_silver_adult/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:35:44+00:00",
+            "seen": "2026-09-20T01:51:03+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "NGD! 2025 Gibson Custom Shop 1957 Les Paul Special in VOS Silverburst with Staple/P90 Pickups. CME M2M Order.",
-            "url": "https://www.reddit.com/r/gibson/comments/1wl3nlf/ngd_2025_gibson_custom_shop_1957_les_paul_special/",
+            "title": "Questions about this Adler tenor recorder",
+            "url": "https://www.reddit.com/r/Recorder/comments/1wl3yv6/questions_about_this_adler_tenor_recorder/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:35:38+00:00",
+            "seen": "2026-09-20T01:50:55+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Thought I'd make it harder by only selecting a game once. CE doesn't count.",
-            "url": "https://www.reddit.com/r/xbox/comments/1wl3nhc/thought_id_make_it_harder_by_only_selecting_a/",
+            "title": "I want a better world and future so badly. But no one around me cares enough.",
+            "url": "https://www.reddit.com/r/offmychest/comments/1wl3yo2/i_want_a_better_world_and_future_so_badly_but_no/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:35:29+00:00",
+            "seen": "2026-09-20T01:50:40+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "I pushed all I can",
-            "url": "https://www.reddit.com/r/SuicideWatch/comments/1wl3nge/i_pushed_all_i_can/",
+            "title": "When Krishna Broke His Vow for Arjuna ❤️ | The Powerful Moment of the Kurukshetra War 🙏",
+            "url": "https://www.reddit.com/r/mahabharata/comments/1wl3yn7/when_krishna_broke_his_vow_for_arjuna_the/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:35:26+00:00",
+            "seen": "2026-09-20T01:50:38+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Buy Switch 2 now, or will there be a new model on the horizon?",
-            "url": "https://www.reddit.com/r/NintendoSwitchHelp/comments/1wl3nfz/buy_switch_2_now_or_will_there_be_a_new_model_on/",
+            "title": "Which sticker should I choose for my wild pack when I finish my farmers market?!",
+            "url": "https://www.reddit.com/r/Monopoly_GO/comments/1wl3ymm/which_sticker_should_i_choose_for_my_wild_pack/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:35:25+00:00",
+            "seen": "2026-09-20T01:50:37+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "BadWolfMC: An Adult Minecraft Server [Network]{18+/SFW}{Greylist}{Java/Bedrock Crossplay}{26.2}{SMP}{SkyBlock}{Minigames}{Vaults}{Hardcore}{Prison}{Creative} Create yourself at www.badwolfmc.com!",
+            "url": "https://www.reddit.com/r/minecraftserverlist/comments/1wl3yks/badwolfmc_an_adult_minecraft_server/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T01:50:33+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -676,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 107351.937687,
+    "age_seconds": 107478.871274,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T21:49:11.749452-04:00",
+      "local_time": "2026-09-19T21:51:18.683039-04:00",
       "market": "US"
     }
   },
