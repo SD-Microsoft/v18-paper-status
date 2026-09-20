@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T04:01:45.624468+00:00",
+  "timestamp_utc": "2026-09-20T04:04:08.720079+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T03:47:02.289793+00:00",
+    "timestamp_utc": "2026-09-20T04:03:51.332638+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -566,60 +566,60 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "I'm looking at buying one of these 2017-2019 330i wagons, are there big differences between these years, and what are the things I need to look out for?",
-            "url": "https://www.reddit.com/r/BMW/comments/1wl699l/im_looking_at_buying_one_of_these_20172019_330i/",
+            "title": "Demon Tower",
+            "url": "https://www.reddit.com/r/Oilpastel/comments/1wl6l4u/demon_tower/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:46:51+00:00",
+            "seen": "2026-09-20T04:03:26+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "What mods are you still hoping exist but probably never will?",
-            "url": "https://www.reddit.com/r/skyrimmods/comments/1wl6998/what_mods_are_you_still_hoping_exist_but_probably/",
+            "title": "A Request of Information - The Tiangui Star",
+            "url": "https://www.reddit.com/r/thepinkysyndicate/comments/1wl6kha/a_request_of_information_the_tiangui_star/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:46:51+00:00",
+            "seen": "2026-09-20T04:02:32+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Did the spartans win the pelopenese war by pure luck?",
-            "url": "https://www.reddit.com/r/MetalsOnReddit/comments/1wl695l/did_the_spartans_win_the_pelopenese_war_by_pure/",
+            "title": "Daily Discussion Thread for September 20, 2026",
+            "url": "https://www.reddit.com/r/IntuitiveMachines/comments/1wl6jzs/daily_discussion_thread_for_september_20_2026/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:46:42+00:00",
+            "seen": "2026-09-20T04:01:56+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "One Shai in Your Area 🐑",
-            "url": "https://www.reddit.com/r/mirrormi/comments/1wl695k/one_shai_in_your_area/",
+            "title": "Guests Using Filters",
+            "url": "https://www.reddit.com/r/msnow/comments/1wl6jz2/guests_using_filters/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:46:42+00:00",
+            "seen": "2026-09-20T04:01:54+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Wages of War",
-            "url": "https://www.reddit.com/r/TowerDefense/comments/1wl6928/wages_of_war/",
+            "title": "Looking for a Replica Fashion Personal Shopper / Sourcing Agent – Men, Women & Kids",
+            "url": "https://www.reddit.com/r/SupplierSourcing/comments/1wl6jyf/looking_for_a_replica_fashion_personal_shopper/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:46:33+00:00",
+            "seen": "2026-09-20T04:01:53+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Natasha reacting and deflecting gunfire from Rita (Kindergarten WARS)",
-            "url": "https://www.reddit.com/r/FeatCalcing/comments/1wl6911/natasha_reacting_and_deflecting_gunfire_from_rita/",
+            "title": "Tournament Report: New White Weenie",
+            "url": "https://www.reddit.com/r/Pauper/comments/1wl6jvr/tournament_report_new_white_weenie/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:46:30+00:00",
+            "seen": "2026-09-20T04:01:48+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "[WTS] 😍MY MOST ELABORATE SALE YET!!!😍 From MONSTER toners, to chaser slabs, to one-off pours, to GOLD, to 10oz Queens Beasts, and everything between! 🤯BEST and MOST UNIQUE variety you will ever find!!!🤯",
-            "url": "https://www.reddit.com/r/Pmsforsale/comments/1wl690j/wts_my_most_elaborate_sale_yet_from_monster/",
+            "title": "Every AI story says the bottleneck is electricity. The power stocks are the worst trade in AI this year",
+            "url": "https://www.reddit.com/r/FMPDATA/comments/1wl6jrb/every_ai_story_says_the_bottleneck_is_electricity/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:46:28+00:00",
+            "seen": "2026-09-20T04:01:39+00:00",
             "source_type": "forum",
-            "rejection_reason": "no_finance_context"
+            "rejection_reason": "no_macro_event"
           }
         ]
       },
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 115215.001292,
+    "age_seconds": 115339.021876,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T00:00:14.813057-04:00",
+      "local_time": "2026-09-20T00:02:18.833641-04:00",
       "market": "US"
     }
   },
