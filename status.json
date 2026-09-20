@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T03:44:58.421311+00:00",
+  "timestamp_utc": "2026-09-20T03:47:19.607761+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T03:30:12.104819+00:00",
+    "timestamp_utc": "2026-09-20T03:47:02.289793+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,30 +549,13 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 1,
-        "accepted_count": 1,
-        "rejected_count": 7,
+        "article_count": 0,
+        "accepted_count": 0,
+        "rejected_count": 8,
         "duplicate_count": 0,
-        "categories": {
-          "macro": 1
-        },
-        "category_scores": {
-          "macro": 0.0
-        },
-        "items": [
-          {
-            "title": "Republicans Puzzled How Biden Still Outsmarting Trump By Causing High Grocery And Gas Prices While Fighting Stage 4 Metastatic Prostate Cancer",
-            "url": "https://www.reddit.com/r/onionheadlines/comments/1wl5x0j/republicans_puzzled_how_biden_still_outsmarting/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T03:29:03+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.25,
-            "categories": [
-              "macro"
-            ]
-          }
-        ],
+        "categories": {},
+        "category_scores": {},
+        "items": [],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -583,50 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "This is a lifelong struggle",
-            "url": "https://www.reddit.com/r/SuicideWatch/comments/1wl5x71/this_is_a_lifelong_struggle/",
+            "title": "I'm looking at buying one of these 2017-2019 330i wagons, are there big differences between these years, and what are the things I need to look out for?",
+            "url": "https://www.reddit.com/r/BMW/comments/1wl699l/im_looking_at_buying_one_of_these_20172019_330i/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:29:18+00:00",
+            "seen": "2026-09-20T03:46:51+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Anti Willow 🧅",
-            "url": "https://www.reddit.com/r/antiwillow/comments/1wl5x27/anti_willow/",
+            "title": "What mods are you still hoping exist but probably never will?",
+            "url": "https://www.reddit.com/r/skyrimmods/comments/1wl6998/what_mods_are_you_still_hoping_exist_but_probably/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:29:06+00:00",
+            "seen": "2026-09-20T03:46:51+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Send Roblox ability War postIf you want it funny make it funnyIf you want itI don't know whatever you want",
-            "url": "https://www.reddit.com/r/abilityw/comments/1wl5x1y/send_roblox_ability_war_postif_you_want_it_funny/",
+            "title": "Did the spartans win the pelopenese war by pure luck?",
+            "url": "https://www.reddit.com/r/MetalsOnReddit/comments/1wl695l/did_the_spartans_win_the_pelopenese_war_by_pure/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:29:06+00:00",
+            "seen": "2026-09-20T03:46:42+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Land Near Isiolo Airport - 1 Acre",
-            "url": "https://www.reddit.com/r/marketplacekenya/comments/1wl5wz1/land_near_isiolo_airport_1_acre/",
+            "title": "One Shai in Your Area 🐑",
+            "url": "https://www.reddit.com/r/mirrormi/comments/1wl695k/one_shai_in_your_area/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:29:00+00:00",
+            "seen": "2026-09-20T03:46:42+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Trading as a 16 year old ?",
-            "url": "https://www.reddit.com/r/NepalSocial/comments/1wl5wyt/trading_as_a_16_year_old/",
+            "title": "Wages of War",
+            "url": "https://www.reddit.com/r/TowerDefense/comments/1wl6928/wages_of_war/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:28:59+00:00",
+            "seen": "2026-09-20T03:46:33+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "What are the most important things in a fish store?",
-            "url": "https://www.reddit.com/r/PlantedTank/comments/1wl5wyq/what_are_the_most_important_things_in_a_fish_store/",
+            "title": "Natasha reacting and deflecting gunfire from Rita (Kindergarten WARS)",
+            "url": "https://www.reddit.com/r/FeatCalcing/comments/1wl6911/natasha_reacting_and_deflecting_gunfire_from_rita/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T03:28:59+00:00",
+            "seen": "2026-09-20T03:46:30+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "[WTS] 😍MY MOST ELABORATE SALE YET!!!😍 From MONSTER toners, to chaser slabs, to one-off pours, to GOLD, to 10oz Queens Beasts, and everything between! 🤯BEST and MOST UNIQUE variety you will ever find!!!🤯",
+            "url": "https://www.reddit.com/r/Pmsforsale/comments/1wl690j/wts_my_most_elaborate_sale_yet_from_monster/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T03:46:28+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 114207.993696,
+    "age_seconds": 114331.941899,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T23:43:27.805461-04:00",
+      "local_time": "2026-09-19T23:45:31.753664-04:00",
       "market": "US"
     }
   },
