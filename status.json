@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T08:27:22.810094+00:00",
+  "timestamp_utc": "2026-09-20T08:29:50.625556+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T08:14:14.428421+00:00",
+    "timestamp_utc": "2026-09-20T08:29:30.950234+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,30 +549,13 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 1,
-        "accepted_count": 1,
-        "rejected_count": 7,
+        "article_count": 0,
+        "accepted_count": 0,
+        "rejected_count": 8,
         "duplicate_count": 0,
-        "categories": {
-          "macro": 1
-        },
-        "category_scores": {
-          "macro": 0.0
-        },
-        "items": [
-          {
-            "title": "My Tribute to Hockney, Eric Yap, Oil Pastel, 2026",
-            "url": "https://www.reddit.com/r/beaniestudios/comments/1wlb6cp/my_tribute_to_hockney_eric_yap_oil_pastel_2026/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T08:12:40+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.25,
-            "categories": [
-              "macro"
-            ]
-          }
-        ],
+        "categories": {},
+        "category_scores": {},
+        "items": [],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -583,50 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Looking for a Job: Immediate Joiner",
-            "url": "https://www.reddit.com/r/Indiajobs/comments/1wlb6fo/looking_for_a_job_immediate_joiner/",
+            "title": "Was the Soviet Union militarily more powerful than the United States in any specific domain at any point during the cold war?",
+            "url": "https://www.reddit.com/r/askanything/comments/1wlbg00/was_the_soviet_union_militarily_more_powerful/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:12:48+00:00",
+            "seen": "2026-09-20T08:27:44+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "American Reacts to Robot Wars: The Second Wars (Semi Finals)",
-            "url": "https://www.reddit.com/r/Taffe316/comments/1wlb6en/american_reacts_to_robot_wars_the_second_wars/",
+            "title": "Cat/Kitten owners please help.",
+            "url": "https://www.reddit.com/r/kolkata/comments/1wlbfzs/catkitten_owners_please_help/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:12:45+00:00",
+            "seen": "2026-09-20T08:27:43+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Nachts laufen",
-            "url": "https://www.reddit.com/r/laufen/comments/1wlb6c5/nachts_laufen/",
+            "title": "French resistance book, published briefly after the war. Found in Czechia.",
+            "url": "https://www.reddit.com/r/Antiques/comments/1wlbfyg/french_resistance_book_published_briefly_after/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:12:39+00:00",
+            "seen": "2026-09-20T08:27:40+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "2023 Hatchback XSE with 64k miles",
-            "url": "https://www.reddit.com/r/COROLLA/comments/1wlb69e/2023_hatchback_xse_with_64k_miles/",
+            "title": "Is my fearful-avoidant ex coming back because she genuinely wants me—or because I feel like a safe option?",
+            "url": "https://www.reddit.com/r/BreakUps/comments/1wlbfuc/is_my_fearfulavoidant_ex_coming_back_because_she/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:12:32+00:00",
+            "seen": "2026-09-20T08:27:29+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "BAföG + Hochschulwechsel (gleiches Fach) – jemand dieselbe Situation gehabt?",
-            "url": "https://www.reddit.com/r/u_Ok_Swimming_8189/comments/1wlb682/bafög_hochschulwechsel_gleiches_fach_jemand/",
+            "title": "Wer von Euch war das? 🚀🤷‍♂️",
+            "url": "https://www.reddit.com/r/wallstreetbetsGER/comments/1wlbftu/wer_von_euch_war_das/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:12:28+00:00",
+            "seen": "2026-09-20T08:27:28+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "50 Question Sunday Quiz - Connection, Homographs, Sports, and GK",
-            "url": "https://www.reddit.com/r/trivia/comments/1wlb681/50_question_sunday_quiz_connection_homographs/",
+            "title": "🚴‍♂️ Vom Sofa aufs Gravelbike – mein Ziel für 2027",
+            "url": "https://www.reddit.com/r/cycling/comments/1wlbfsv/vom_sofa_aufs_gravelbike_mein_ziel_für_2027/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T08:12:28+00:00",
+            "seen": "2026-09-20T08:27:25+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Statecrafter.io test results",
+            "url": "https://www.reddit.com/r/PoliticalCompass/comments/1wlbfsk/statecrafterio_test_results/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T08:27:24+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 131144.890557,
+    "age_seconds": 131275.965467,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T04:25:44.702322-04:00",
+      "local_time": "2026-09-20T04:27:55.777232-04:00",
       "market": "US"
     }
   },
