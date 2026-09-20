@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T07:06:36.841288+00:00",
+  "timestamp_utc": "2026-09-20T07:08:57.756372+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T06:51:55.324368+00:00",
+    "timestamp_utc": "2026-09-20T07:08:40.484828+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -566,58 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "My GF(25) is upset of me(29) for my apparent use of soc med.",
-            "url": "https://www.reddit.com/r/OffMyChestPH/comments/1wl9pot/my_gf25_is_upset_of_me29_for_my_apparent_use_of/",
+            "title": "[Hiring] Sales Reservation Agent | Marriott International | Dubai, UAE",
+            "url": "https://www.reddit.com/r/menajobs/comments/1wla1ga/hiring_sales_reservation_agent_marriott/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:50:21+00:00",
+            "seen": "2026-09-20T07:07:47+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "What is something that was clearly made for adults but marketed to children?",
-            "url": "https://www.reddit.com/r/answers/comments/1wl9pok/what_is_something_that_was_clearly_made_for/",
+            "title": "#OnThisDay 1792, The Battle of Valmy",
+            "url": "https://www.reddit.com/r/onthisdayinworld/comments/1wla1c9/onthisday_1792_the_battle_of_valmy/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:50:21+00:00",
+            "seen": "2026-09-20T07:07:38+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "What's your opinion on worlds that are just our world, but with fantasy/science fiction elements and small name changes?",
+            "url": "https://www.reddit.com/r/worldbuilding/comments/1wla1bw/whats_your_opinion_on_worlds_that_are_just_our/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T07:07:37+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Which Admiral had the strongest presence to you when they were first introduced? (For me, Akainu probably left the strongest first impression)",
+            "url": "https://www.reddit.com/r/OnePiece/comments/1wla1bu/which_admiral_had_the_strongest_presence_to_you/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T07:07:37+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "🚀 DISCOUTHUB OFFICIAL | MEGA CLOUD & AI CREDITS STOCK",
+            "url": "https://www.reddit.com/r/discouthub/comments/1wla1a2/discouthub_official_mega_cloud_ai_credits_stock/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T07:07:32+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Paramedics prescribing rights",
-            "url": "https://www.reddit.com/r/newzealand/comments/1wl9poj/paramedics_prescribing_rights/",
+            "title": "[JOLYNE NENDO] Wait for re-release or just buy from what's in stock",
+            "url": "https://www.reddit.com/r/Nendoroid/comments/1wla13i/jolyne_nendo_wait_for_rerelease_or_just_buy_from/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:50:21+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "These are 7 of Australia's cheapest capital city suburbs, and some could be among the strongest performers over the next 12 to 18 months.",
-            "url": "https://www.reddit.com/r/AusPropertyMasteryPK/comments/1wl9pkk/these_are_7_of_australias_cheapest_capital_city/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T06:50:11+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Throwback to the time when Shilpa Shetty won big brother UK after facing racism and the issue even went to the UK Parliament. Inframe: Shilpa Shetty",
-            "url": "https://www.reddit.com/r/InstaCelebsGossip/comments/1wl9pam/throwback_to_the_time_when_shilpa_shetty_won_big/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T06:49:42+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "I wanted to create a card game set in a dark world, exploring what happens when you sell your soul. In the underworld, souls are played with as if they were cards. - Dead Market",
-            "url": "https://www.reddit.com/r/pcgames/comments/1wl9pai/i_wanted_to_create_a_card_game_set_in_a_dark/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T06:49:42+00:00",
+            "seen": "2026-09-20T07:07:15+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "Instead of fighting Danzo, Sasuke faces war arc Kakashi. Who wins?",
-            "url": "https://www.reddit.com/r/NarutoPowerscaling/comments/1wl9pab/instead_of_fighting_danzo_sasuke_faces_war_arc/",
+            "title": "تحل بالذكاء المزبل و تقارن معي",
+            "url": "https://www.reddit.com/r/livingproof/comments/1wla13a/تحل_بالذكاء_المزبل_و_تقارن_معي/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T06:49:42+00:00",
+            "seen": "2026-09-20T07:07:15+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 126306.974869,
+    "age_seconds": 126429.954164,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-20T03:05:06.786634-04:00",
+      "local_time": "2026-09-20T03:07:09.765929-04:00",
       "market": "US"
     }
   },
