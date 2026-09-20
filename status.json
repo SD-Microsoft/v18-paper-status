@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T01:05:16.750432+00:00",
+  "timestamp_utc": "2026-09-20T01:07:39.813827+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,50 +541,35 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T00:52:21.822623+00:00",
+    "timestamp_utc": "2026-09-20T01:07:22.491891+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
     },
     "targets": {
       "MACRO": {
-        "score": -33.3,
-        "article_count": 2,
-        "accepted_count": 2,
-        "rejected_count": 6,
+        "score": 0.0,
+        "article_count": 1,
+        "accepted_count": 1,
+        "rejected_count": 7,
         "duplicate_count": 0,
         "categories": {
-          "geopolitics": 2,
           "macro": 1
         },
         "category_scores": {
-          "geopolitics": -0.25,
-          "macro": -0.25
+          "macro": 0.0
         },
         "items": [
           {
-            "title": "~the toilets prepare for war`",
-            "url": "https://www.reddit.com/r/TheAstroToilet/comments/1wl2pxj/the_toilets_prepare_for_war/",
+            "title": "Am I going to destroy my engine of my Chevy Silverado 1500 with this much extra oil?",
+            "url": "https://www.reddit.com/r/AskAMechanic/comments/1wl31gm/am_i_going_to_destroy_my_engine_of_my_chevy/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:51:02+00:00",
+            "seen": "2026-09-20T01:05:50+00:00",
             "source_type": "forum",
-            "headline_sentiment": -1,
+            "headline_sentiment": 0,
             "source_weight": 0.25,
             "categories": [
-              "geopolitics",
               "macro"
-            ]
-          },
-          {
-            "title": "Inside Iran: A reporter's account of living through war and economic strangulation",
-            "url": "https://www.reddit.com/r/IranianFreedom/comments/1wl2pvl/inside_iran_a_reporters_account_of_living_through/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T00:50:57+00:00",
-            "source_type": "forum",
-            "headline_sentiment": -1,
-            "source_weight": 0.25,
-            "categories": [
-              "geopolitics"
             ]
           }
         ],
@@ -598,42 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "[WTS] Spydercos!! (Smock and PM3 Sprints)",
-            "url": "https://www.reddit.com/r/Knife_Swap/comments/1wl2pxw/wts_spydercos_smock_and_pm3_sprints/",
+            "title": "[RO] The Party",
+            "url": "https://www.reddit.com/r/shortstories/comments/1wl31n9/ro_the_party/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:51:02+00:00",
+            "seen": "2026-09-20T01:06:05+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Getting into minimum weapons range of a PPC boat be like.",
-            "url": "https://www.reddit.com/r/battletech/comments/1wl2pxg/getting_into_minimum_weapons_range_of_a_ppc_boat/",
+            "title": "Not sure what else to do",
+            "url": "https://www.reddit.com/r/StardewValley/comments/1wl31k0/not_sure_what_else_to_do/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:51:02+00:00",
+            "seen": "2026-09-20T01:05:57+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Toy Story 5 4K UHD Steelbook is in stock at Amazon for $44.99 (MSRP)",
-            "url": "https://www.reddit.com/r/SteelbookRestocks/comments/1wl2pt7/toy_story_5_4k_uhd_steelbook_is_in_stock_at/",
+            "title": "👋 Welcome to r/EG3WORKS — What Are You Working Through Right Now?",
+            "url": "https://www.reddit.com/r/EG3WORKS/comments/1wl31hn/welcome_to_reg3works_what_are_you_working_through/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:50:52+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "Irregular Recruits",
-            "url": "https://www.reddit.com/r/greentext/comments/1wl2psc/irregular_recruits/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T00:50:50+00:00",
+            "seen": "2026-09-20T01:05:52+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "🧡🤎Chocolate Orange Imposter? 🤎🧡",
-            "url": "https://www.reddit.com/r/LushCosmetics/comments/1wl2pqn/chocolate_orange_imposter/",
+            "title": "MV Agusta SuperVeloce - Motorcycle Art indeed",
+            "url": "https://www.reddit.com/r/MVAgusta/comments/1wl31d1/mv_agusta_superveloce_motorcycle_art_indeed/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:50:47+00:00",
+            "seen": "2026-09-20T01:05:41+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Anyone coming from the 209?",
+            "url": "https://www.reddit.com/r/AftershockFestival/comments/1wl31ay/anyone_coming_from_the_209/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T01:05:36+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Danke Huebi!",
+            "url": "https://www.reddit.com/r/Huebis_Weddit/comments/1wl3181/danke_huebi/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T01:05:29+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -700,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 104621.931259,
+    "age_seconds": 104750.008179,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T21:03:41.743024-04:00",
+      "local_time": "2026-09-19T21:05:49.819944-04:00",
       "market": "US"
     }
   },
