@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T01:35:35.198383+00:00",
+  "timestamp_utc": "2026-09-20T01:37:59.954760+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T01:22:28.735055+00:00",
+    "timestamp_utc": "2026-09-20T01:37:42.699157+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -549,42 +549,13 @@
     "targets": {
       "MACRO": {
         "score": 0.0,
-        "article_count": 2,
-        "accepted_count": 2,
-        "rejected_count": 6,
-        "duplicate_count": 0,
-        "categories": {
-          "macro": 2
-        },
-        "category_scores": {
-          "macro": 0.0
-        },
-        "items": [
-          {
-            "title": "As gas continues to increase in America. Are you canceling all your subscriptions?",
-            "url": "https://www.reddit.com/r/randomquestions/comments/1wl3ct2/as_gas_continues_to_increase_in_america_are_you/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T01:20:56+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.25,
-            "categories": [
-              "macro"
-            ]
-          },
-          {
-            "title": "Oil and Grease cans",
-            "url": "https://www.reddit.com/r/FoundattheHHW/comments/1wl3coj/oil_and_grease_cans/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T01:20:46+00:00",
-            "source_type": "forum",
-            "headline_sentiment": 0,
-            "source_weight": 0.25,
-            "categories": [
-              "macro"
-            ]
-          }
-        ],
+        "article_count": 0,
+        "accepted_count": 0,
+        "rejected_count": 7,
+        "duplicate_count": 1,
+        "categories": {},
+        "category_scores": {},
+        "items": [],
         "rejected_samples": [
           {
             "title": "interestrates",
@@ -595,42 +566,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Follow the Five A Family-Inspired Animated Series: \"The Five\"We are raising funds to help bring \"The Five\" to life—an original animated children’s series inspired by the chaos, humor, personalities, experiences, and heart of our real family.The Bennett Family is a fictional family. The characters",
-            "url": "https://www.reddit.com/r/EdutainmentShows/comments/1wl3cvw/follow_the_five_a_familyinspired_animated_series/",
+            "title": "The Valley Circle Theater in San Diego's Mission Valley was famous in 1977 for hosting the historic local opening and record-breaking run of the original Star Wars movie. The seating capacity was 1,000 seats and Star Wars played in that very same theater for 15 months. Those were great times!!!",
+            "url": "https://www.reddit.com/r/1970s/comments/1wl3nvi/the_valley_circle_theater_in_san_diegos_mission/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:21:02+00:00",
+            "seen": "2026-09-20T01:36:01+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Why do libs hate prediction markets like Kalshi and Polymarket?",
-            "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1wl3cu6/why_do_libs_hate_prediction_markets_like_kalshi/",
+            "title": "CEO of Next Bridge Hydrocarbons to Speak With Lara Logan On September 22 [Related DD]",
+            "url": "https://www.reddit.com/r/u_-einfachman-/comments/1wl3no0/ceo_of_next_bridge_hydrocarbons_to_speak_with/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:20:58+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "Town hall 17 • close to max • defense all done • linkeable to buyers mail • 40 usd • pic's below 👇🏻 • free name change • 300+ vouches and feedbacks • Discord - mysticmoth18",
-            "url": "https://www.reddit.com/r/ClashofClansAccounts/comments/1wl3cqj/town_hall_17_close_to_max_defense_all_done/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T01:20:50+00:00",
+            "seen": "2026-09-20T01:35:44+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "When you havefinally achieved your people's and family’s dream of an imperial crown by defeating your rival nation and conquering an entire continent only to lose it all in a world war during your reign.",
-            "url": "https://www.reddit.com/r/worldjerking/comments/1wl3cnx/when_you_havefinally_achieved_your_peoples_and/",
+            "title": "NGD! 2025 Gibson Custom Shop 1957 Les Paul Special in VOS Silverburst with Staple/P90 Pickups. CME M2M Order.",
+            "url": "https://www.reddit.com/r/gibson/comments/1wl3nlf/ngd_2025_gibson_custom_shop_1957_les_paul_special/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:20:45+00:00",
+            "seen": "2026-09-20T01:35:38+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "MERCURY DRUG SUKI DASH VIRTUAL RUN RACE ENTITLEMENTS/RACE BIB",
-            "url": "https://www.reddit.com/r/u_Jann_Ann/comments/1wl3cmn/mercury_drug_suki_dash_virtual_run_race/",
+            "title": "Thought I'd make it harder by only selecting a game once. CE doesn't count.",
+            "url": "https://www.reddit.com/r/xbox/comments/1wl3nhc/thought_id_make_it_harder_by_only_selecting_a/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T01:20:42+00:00",
+            "seen": "2026-09-20T01:35:29+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "I pushed all I can",
+            "url": "https://www.reddit.com/r/SuicideWatch/comments/1wl3nge/i_pushed_all_i_can/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T01:35:26+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Buy Switch 2 now, or will there be a new model on the horizon?",
+            "url": "https://www.reddit.com/r/NintendoSwitchHelp/comments/1wl3nfz/buy_switch_2_now_or_will_there_be_a_new_model_on/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T01:35:25+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -697,12 +676,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 106440.917317,
+    "age_seconds": 106567.904921,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T21:34:00.729082-04:00",
+      "local_time": "2026-09-19T21:36:07.716686-04:00",
       "market": "US"
     }
   },
