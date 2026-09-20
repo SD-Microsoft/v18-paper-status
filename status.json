@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T00:30:33.248666+00:00",
+  "timestamp_utc": "2026-09-20T00:33:00.035482+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -468,24 +468,6 @@
       "stress_scenarios": []
     },
     {
-      "symbol": "MS1",
-      "filters": "FAIL",
-      "validation": "FAIL",
-      "affordable_qty": 692,
-      "reason": "extreme volatility > 180%; spread > 3%",
-      "strategy": null,
-      "stop_pct": null,
-      "target_pct": null,
-      "oos_return_pct": null,
-      "oos_max_drawdown_pct": null,
-      "oos_entries": null,
-      "oos_completed_trades": null,
-      "oos_win_rate_pct": null,
-      "positive_walk_forward_folds": null,
-      "walk_forward_folds": [],
-      "stress_scenarios": []
-    },
-    {
       "symbol": "TURB",
       "filters": "FAIL",
       "validation": "FAIL",
@@ -527,6 +509,24 @@
       "validation": "FAIL",
       "affordable_qty": 37,
       "reason": "score +0 < +2",
+      "strategy": null,
+      "stop_pct": null,
+      "target_pct": null,
+      "oos_return_pct": null,
+      "oos_max_drawdown_pct": null,
+      "oos_entries": null,
+      "oos_completed_trades": null,
+      "oos_win_rate_pct": null,
+      "positive_walk_forward_folds": null,
+      "walk_forward_folds": [],
+      "stress_scenarios": []
+    },
+    {
+      "symbol": "TECH",
+      "filters": "FAIL",
+      "validation": "FAIL",
+      "affordable_qty": 112,
+      "reason": "extreme volatility > 180%; spread > 3%",
       "strategy": null,
       "stop_pct": null,
       "target_pct": null,
@@ -693,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 102540.902881,
+    "age_seconds": 102666.982429,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T20:29:00.714646-04:00",
+      "local_time": "2026-09-19T20:31:06.794194-04:00",
       "market": "US"
     }
   },
