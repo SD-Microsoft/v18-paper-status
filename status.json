@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T00:35:05.504992+00:00",
+  "timestamp_utc": "2026-09-20T00:37:30.371534+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,14 +541,14 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T00:21:52.101053+00:00",
+    "timestamp_utc": "2026-09-20T00:37:12.956179+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
     },
     "targets": {
       "MACRO": {
-        "score": -33.3,
+        "score": 0.0,
         "article_count": 1,
         "accepted_count": 1,
         "rejected_count": 7,
@@ -557,16 +557,16 @@
           "macro": 1
         },
         "category_scores": {
-          "macro": -0.25
+          "macro": 0.0
         },
         "items": [
           {
-            "title": "In rural lowa, a veteran approached the Trump & Epstein bookmobile at a gas station to tell them how much he supported the work they are doing exposing the Epstien files. “Absolutely it’s a cover-up. Democrat, Republican, Independent, I don’t care who was involved. If they did it, prosecute them.”",
-            "url": "https://www.reddit.com/r/Epstein/comments/1wl22zj/in_rural_lowa_a_veteran_approached_the_trump/",
+            "title": "Mark Maggiori - Once Upon a Time, oil on linen (2020)",
+            "url": "https://www.reddit.com/r/cosmicmessenger/comments/1wl2eke/mark_maggiori_once_upon_a_time_oil_on_linen_2020/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:20:51+00:00",
+            "seen": "2026-09-20T00:36:02+00:00",
             "source_type": "forum",
-            "headline_sentiment": -1,
+            "headline_sentiment": 0,
             "source_weight": 0.25,
             "categories": [
               "macro"
@@ -583,50 +583,50 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "Looking for suggestions for a ginger color depositing conditioner!",
-            "url": "https://www.reddit.com/r/HairDye/comments/1wl233w/looking_for_suggestions_for_a_ginger_color/",
+            "title": "[Discussion] Always double check size fit with a mirror shot",
+            "url": "https://www.reddit.com/r/Watches/comments/1wl2ehx/discussion_always_double_check_size_fit_with_a/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:21:01+00:00",
+            "seen": "2026-09-20T00:35:56+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Is QK80 MK2 the best quality TKL prebuilt on the market currently?",
-            "url": "https://www.reddit.com/r/keyboards/comments/1wl233q/is_qk80_mk2_the_best_quality_tkl_prebuilt_on_the/",
+            "title": "Survivors guilt",
+            "url": "https://www.reddit.com/r/ptsd/comments/1wl2eex/survivors_guilt/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:21:00+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_macro_event"
-          },
-          {
-            "title": "Dúvida sobre mandalore",
-            "url": "https://www.reddit.com/r/StarWarsbrasil/comments/1wl232b/dúvida_sobre_mandalore/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T00:20:57+00:00",
+            "seen": "2026-09-20T00:35:50+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Looking for a remote job",
-            "url": "https://www.reddit.com/r/remotejobsfinders/comments/1wl230b/looking_for_a_remote_job/",
+            "title": "Thin bottom lobe",
+            "url": "https://www.reddit.com/r/Stretched/comments/1wl2ebm/thin_bottom_lobe/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:20:52+00:00",
+            "seen": "2026-09-20T00:35:43+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Batman V Society",
-            "url": "https://www.reddit.com/r/batman/comments/1wl2309/batman_v_society/",
+            "title": "Torgon III - Do I Compare Thus To An Autumn Sea",
+            "url": "https://www.reddit.com/r/IronThroneRP/comments/1wl2e7p/torgon_iii_do_i_compare_thus_to_an_autumn_sea/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:20:52+00:00",
+            "seen": "2026-09-20T00:35:34+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Pt Cruiser help",
-            "url": "https://www.reddit.com/r/MechanicAdvice/comments/1wl22zq/pt_cruiser_help/",
+            "title": "H: demigod roll Cryolater W: Leader offers",
+            "url": "https://www.reddit.com/r/Market76/comments/1wl2e4w/h_demigod_roll_cryolater_w_leader_offers/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:20:51+00:00",
+            "seen": "2026-09-20T00:35:29+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "I found a new app that I know will be big. How do I contact the Owners.",
+            "url": "https://www.reddit.com/r/apps/comments/1wl2dzi/i_found_a_new_app_that_i_know_will_be_big_how_do/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T00:35:17+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +693,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 102812.995145,
+    "age_seconds": 102938.99106,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T20:33:32.806910-04:00",
+      "local_time": "2026-09-19T20:35:38.802825-04:00",
       "market": "US"
     }
   },
