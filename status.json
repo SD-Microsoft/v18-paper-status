@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T00:50:06.050687+00:00",
+  "timestamp_utc": "2026-09-20T00:52:39.111678+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,35 +541,50 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-20T00:37:12.956179+00:00",
+    "timestamp_utc": "2026-09-20T00:52:21.822623+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
     },
     "targets": {
       "MACRO": {
-        "score": 0.0,
-        "article_count": 1,
-        "accepted_count": 1,
-        "rejected_count": 7,
+        "score": -33.3,
+        "article_count": 2,
+        "accepted_count": 2,
+        "rejected_count": 6,
         "duplicate_count": 0,
         "categories": {
+          "geopolitics": 2,
           "macro": 1
         },
         "category_scores": {
-          "macro": 0.0
+          "geopolitics": -0.25,
+          "macro": -0.25
         },
         "items": [
           {
-            "title": "Mark Maggiori - Once Upon a Time, oil on linen (2020)",
-            "url": "https://www.reddit.com/r/cosmicmessenger/comments/1wl2eke/mark_maggiori_once_upon_a_time_oil_on_linen_2020/",
+            "title": "~the toilets prepare for war`",
+            "url": "https://www.reddit.com/r/TheAstroToilet/comments/1wl2pxj/the_toilets_prepare_for_war/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:36:02+00:00",
+            "seen": "2026-09-20T00:51:02+00:00",
             "source_type": "forum",
-            "headline_sentiment": 0,
+            "headline_sentiment": -1,
             "source_weight": 0.25,
             "categories": [
+              "geopolitics",
               "macro"
+            ]
+          },
+          {
+            "title": "Inside Iran: A reporter's account of living through war and economic strangulation",
+            "url": "https://www.reddit.com/r/IranianFreedom/comments/1wl2pvl/inside_iran_a_reporters_account_of_living_through/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T00:50:57+00:00",
+            "source_type": "forum",
+            "headline_sentiment": -1,
+            "source_weight": 0.25,
+            "categories": [
+              "geopolitics"
             ]
           }
         ],
@@ -583,50 +598,42 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "[Discussion] Always double check size fit with a mirror shot",
-            "url": "https://www.reddit.com/r/Watches/comments/1wl2ehx/discussion_always_double_check_size_fit_with_a/",
+            "title": "[WTS] Spydercos!! (Smock and PM3 Sprints)",
+            "url": "https://www.reddit.com/r/Knife_Swap/comments/1wl2pxw/wts_spydercos_smock_and_pm3_sprints/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:35:56+00:00",
+            "seen": "2026-09-20T00:51:02+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Survivors guilt",
-            "url": "https://www.reddit.com/r/ptsd/comments/1wl2eex/survivors_guilt/",
+            "title": "Getting into minimum weapons range of a PPC boat be like.",
+            "url": "https://www.reddit.com/r/battletech/comments/1wl2pxg/getting_into_minimum_weapons_range_of_a_ppc_boat/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:35:50+00:00",
+            "seen": "2026-09-20T00:51:02+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Thin bottom lobe",
-            "url": "https://www.reddit.com/r/Stretched/comments/1wl2ebm/thin_bottom_lobe/",
+            "title": "Toy Story 5 4K UHD Steelbook is in stock at Amazon for $44.99 (MSRP)",
+            "url": "https://www.reddit.com/r/SteelbookRestocks/comments/1wl2pt7/toy_story_5_4k_uhd_steelbook_is_in_stock_at/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:35:43+00:00",
+            "seen": "2026-09-20T00:50:52+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_macro_event"
+          },
+          {
+            "title": "Irregular Recruits",
+            "url": "https://www.reddit.com/r/greentext/comments/1wl2psc/irregular_recruits/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T00:50:50+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Torgon III - Do I Compare Thus To An Autumn Sea",
-            "url": "https://www.reddit.com/r/IronThroneRP/comments/1wl2e7p/torgon_iii_do_i_compare_thus_to_an_autumn_sea/",
+            "title": "🧡🤎Chocolate Orange Imposter? 🤎🧡",
+            "url": "https://www.reddit.com/r/LushCosmetics/comments/1wl2pqn/chocolate_orange_imposter/",
             "domain": "reddit.com",
-            "seen": "2026-09-20T00:35:34+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "H: demigod roll Cryolater W: Leader offers",
-            "url": "https://www.reddit.com/r/Market76/comments/1wl2e4w/h_demigod_roll_cryolater_w_leader_offers/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T00:35:29+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "I found a new app that I know will be big. How do I contact the Owners.",
-            "url": "https://www.reddit.com/r/apps/comments/1wl2dzi/i_found_a_new_app_that_i_know_will_be_big_how_do/",
-            "domain": "reddit.com",
-            "seen": "2026-09-20T00:35:17+00:00",
+            "seen": "2026-09-20T00:50:47+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -693,12 +700,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 103713.89108,
+    "age_seconds": 103839.000654,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T20:48:33.702845-04:00",
+      "local_time": "2026-09-19T20:50:38.812419-04:00",
       "market": "US"
     }
   },
