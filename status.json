@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-20T00:04:37.054009+00:00",
+  "timestamp_utc": "2026-09-20T00:07:01.666882+00:00",
   "engine": "V18.4.1-PAPER-SAFETY-1.41",
   "mode": "PAPER_ONLY",
   "starting_balance_nok": 2000.0,
@@ -541,7 +541,7 @@
     }
   ],
   "news_intelligence": {
-    "timestamp_utc": "2026-09-19T23:51:41.067754+00:00",
+    "timestamp_utc": "2026-09-20T00:06:44.081497+00:00",
     "target_keys": {
       "MACRO": "(markets OR stocks OR inflation OR \"interest rates\" OR oil OR gas OR war OR sanctions OR tariff)",
       "ONCO": "\"Oncopeptides AB\""
@@ -566,58 +566,58 @@
             "rejection_reason": "stale_or_unparseable"
           },
           {
-            "title": "I'm looking for a clan (3.4k recent WNX)",
-            "url": "https://www.reddit.com/r/WorldofTanks/comments/1wl1dya/im_looking_for_a_clan_34k_recent_wnx/",
+            "title": "The Fire that never Rose: Europe in 2040",
+            "url": "https://www.reddit.com/r/TheFireRisesMod/comments/1wl1rou/the_fire_that_never_rose_europe_in_2040/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:49:14+00:00",
+            "seen": "2026-09-20T00:05:56+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Shadow of War on Claw ex ai",
-            "url": "https://www.reddit.com/r/MSIClaw/comments/1wl1du2/shadow_of_war_on_claw_ex_ai/",
+            "title": "Bitunix — Evening Crypto Market Snapshot & Perpetual Futures Data — September 19, 2026",
+            "url": "https://www.reddit.com/r/BitunixCrypto/comments/1wl1rom/bitunix_evening_crypto_market_snapshot_perpetual/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:49:04+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "Ever regretted buying a higher trim?",
-            "url": "https://www.reddit.com/r/f150/comments/1wl1dtx/ever_regretted_buying_a_higher_trim/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:49:04+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "AITA for staying out later than planned and “ruining” my boyfriend’s trust?",
-            "url": "https://www.reddit.com/r/AITA_Relationships/comments/1wl1dtp/aita_for_staying_out_later_than_planned_and/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:49:04+00:00",
-            "source_type": "forum",
-            "rejection_reason": "no_finance_context"
-          },
-          {
-            "title": "What is the strangest thing you have seen at a flea market/antique store?",
-            "url": "https://www.reddit.com/r/Thrift/comments/1wl1dpq/what_is_the_strangest_thing_you_have_seen_at_a/",
-            "domain": "reddit.com",
-            "seen": "2026-09-19T23:48:55+00:00",
+            "seen": "2026-09-20T00:05:56+00:00",
             "source_type": "forum",
             "rejection_reason": "no_macro_event"
           },
           {
-            "title": "I need a new paddle...",
-            "url": "https://www.reddit.com/r/tabletennis/comments/1wl1dpa/i_need_a_new_paddle/",
+            "title": "Possible buyer",
+            "url": "https://www.reddit.com/r/BikeShop/comments/1wl1rno/possible_buyer/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:48:54+00:00",
+            "seen": "2026-09-20T00:05:54+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           },
           {
-            "title": "Probably the best run I’ve ever had",
-            "url": "https://www.reddit.com/r/slaythespire/comments/1wl1doe/probably_the_best_run_ive_ever_had/",
+            "title": "Any help or insight is appreciated.",
+            "url": "https://www.reddit.com/r/pctroubleshooting/comments/1wl1rli/any_help_or_insight_is_appreciated/",
             "domain": "reddit.com",
-            "seen": "2026-09-19T23:48:52+00:00",
+            "seen": "2026-09-20T00:05:50+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "sweep 2026-09-20 00:05 part 1/3",
+            "url": "https://www.reddit.com/r/lineup_sweep/comments/1wl1ri1/sweep_20260920_0005_part_13/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T00:05:44+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Buyers guilt",
+            "url": "https://www.reddit.com/r/SavingMoney/comments/1wl1re9/buyers_guilt/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T00:05:36+00:00",
+            "source_type": "forum",
+            "rejection_reason": "no_finance_context"
+          },
+          {
+            "title": "Habt ihr schon mal eine Chance nicht ergriffen und wie seid ihr damit umgegangen?",
+            "url": "https://www.reddit.com/r/FragtMaenner/comments/1wl1rdy/habt_ihr_schon_mal_eine_chance_nicht_ergriffen/",
+            "domain": "reddit.com",
+            "seen": "2026-09-20T00:05:36+00:00",
             "source_type": "forum",
             "rejection_reason": "no_finance_context"
           }
@@ -684,12 +684,12 @@
   },
   "us_market_health": {
     "label": "MARKET CLOSED • LAST VALID QUOTE",
-    "age_seconds": 100983.982657,
+    "age_seconds": 101109.926845,
     "stale": false,
     "market_open": false,
     "session": {
       "open": false,
-      "local_time": "2026-09-19T20:03:03.794422-04:00",
+      "local_time": "2026-09-19T20:05:09.738610-04:00",
       "market": "US"
     }
   },
